@@ -170,13 +170,15 @@
                     <nav class="header-nav">
                         <ul class="social">
                             
-                                <a class="fa Email" href="mailto:socoolapk@163.com" title="Email"></a>
-                            
                                 <a class="fa GitHub" href="https://github.com/SOcoolapk" title="GitHub"></a>
                             
                                 <a class="fa RSS" href="/atom.xml" title="RSS"></a>
                             
                                 <a class="fa 知乎" href="https://www.zhihu.com/people/ruan-jian-kong-14/activities" title="知乎"></a>
+                            
+                                <a class="fa bilibili" href="/" title="bilibili"></a>
+                            
+                                <a class="fa 微信" href="https://mp.weixin.qq.com/cgi-bin/home?t=home/index&lang=zh_CN&token=2117589948#tab=sent-panel" title="微信"></a>
                             
                         </ul>
                     </nav>
@@ -208,7 +210,7 @@
                 
                 <section class="switch-part switch-part4">
                 
-                    <div id="js-aboutme">专注于前端</div>
+                    <div id="js-aboutme">发现PY的乐趣</div>
                 </section>
                 
             </div>
@@ -250,13 +252,15 @@
             <nav class="header-nav">
                         <ul class="social">
                             
-                                <a class="fa Email" target="_blank" href="mailto:socoolapk@163.com" title="Email"></a>
-                            
                                 <a class="fa GitHub" target="_blank" href="https://github.com/SOcoolapk" title="GitHub"></a>
                             
                                 <a class="fa RSS" target="_blank" href="/atom.xml" title="RSS"></a>
                             
                                 <a class="fa 知乎" target="_blank" href="https://www.zhihu.com/people/ruan-jian-kong-14/activities" title="知乎"></a>
+                            
+                                <a class="fa bilibili" target="_blank" href="/" title="bilibili"></a>
+                            
+                                <a class="fa 微信" target="_blank" href="https://mp.weixin.qq.com/cgi-bin/home?t=home/index&lang=zh_CN&token=2117589948#tab=sent-panel" title="微信"></a>
                             
                         </ul>
             </nav>
@@ -449,22 +453,6 @@
     </div>
     
 <script data-main="/js/main.js" src="//cdn.bootcss.com/require.js/2.2.0/require.min.js"></script>
-
-    <script>
-        $(document).ready(function() {
-            var iPad = window.navigator.userAgent.indexOf('iPad');
-            if (iPad > -1 || $(".left-col").css("display") === "none") {
-                var bgColorList = ["#9db3f4", "#414141", "#e5a859", "#f5dfc6", "#c084a0", "#847e72", "#cd8390", "#996731"];
-                var bgColor = Math.ceil(Math.random() * (bgColorList.length - 1));
-                $("body").css({"background-color": bgColorList[bgColor], "background-size": "cover"});
-            }
-            else {
-                var backgroundnum = 5;
-                var backgroundimg = "url(/background/bg-x.jpg)".replace(/x/gi, Math.ceil(Math.random() * backgroundnum));
-                $("body").css({"background": backgroundimg, "background-attachment": "fixed", "background-size": "cover"});
-            }
-        })
-    </script>
 
 
 
