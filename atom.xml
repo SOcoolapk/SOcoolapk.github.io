@@ -5,9 +5,9 @@
   <subtitle>基安在手，说走就走！</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://socoolapk.github.io/"/>
   <updated>2018-01-16T11:36:15.481Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://socoolapk.github.io/</id>
   
   <author>
     <name>新八技</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/undefined.html"/>
-    <id>http://yoursite.com/undefined.html</id>
+    <link href="https://socoolapk.github.io/hello-world.html"/>
+    <id>https://socoolapk.github.io/hello-world.html</id>
     <published>2018-01-16T11:36:15.481Z</published>
     <updated>2018-01-16T11:36:15.481Z</updated>
     
