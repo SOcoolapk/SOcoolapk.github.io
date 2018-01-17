@@ -4,21 +4,6 @@
 
     
     
-  <url>
-    <loc>http://yoursite.com/undefined.html</loc>
-    <lastmod>2018-01-17T05:56:53.769Z</lastmod>
-    <data>
-        <display>
-        <title>第一篇文</title>
-        <pubTime>2018-01-17T05:51:32.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
     
     
   <url>
@@ -35,4 +20,35 @@
     </data>
     </url>
 
+    
+  <url>
+    <loc>http://yoursite.com/undefined.html</loc>
+    <lastmod>2018-01-16T11:36:15.481Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2018-01-17T06:27:10.947Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/undefined.html</loc>
+    <lastmod>2018-01-16T11:36:15.481Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2018-01-17T06:27:37.948Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
 </urlset>

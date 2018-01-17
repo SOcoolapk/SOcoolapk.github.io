@@ -9,13 +9,6 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/undefined.html</loc>
-    
-    <lastmod>2018-01-17T05:56:53.769Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/404/index.html</loc>
     
     <lastmod>2018-01-17T05:44:28.153Z</lastmod>
@@ -31,6 +24,27 @@
   
   <url>
     <loc>http://yoursite.com/undefined.html</loc>
+    
+    <lastmod>2018-01-16T11:36:15.481Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/undefined.html</loc>
+    
+    <lastmod>2018-01-16T11:36:15.481Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/undefined.html</loc>
+    
+    <lastmod>2018-01-16T11:36:15.481Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/about/hello-world.html</loc>
     
     <lastmod>2018-01-16T11:36:15.481Z</lastmod>
     
