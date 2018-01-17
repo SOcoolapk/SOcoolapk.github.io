@@ -5,7 +5,7 @@
     <entry>
       <title><![CDATA[第一篇文]]></title>
       <url>/undefined.html</url>
-      <content type="html"><![CDATA[<p>###这是标题</p>]]></content>
+      <content type="html"><![CDATA[<h3 id="这是标题"><a href="#这是标题" class="headerlink" title="这是标题"></a>这是标题</h3><p>我也不知道先写点什么，因为还在测试！</p>]]></content>
       
         
     </entry>
