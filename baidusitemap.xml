@@ -4,6 +4,23 @@
 
     
   <url>
+    <loc>https://socoolapk.github.io/hello-world.html</loc>
+    <lastmod>2018-01-19T09:35:10.351Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2018-01-19T07:08:32.000Z</pubTime>
+        
+        <tag>测试标签</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://socoolapk.github.io/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%20-%20%E5%89%AF%E6%9C%AC.html</loc>
     <lastmod>2018-01-19T06:26:57.660Z</lastmod>
     <data>
@@ -48,19 +65,4 @@
     </url>
 
     
-    
-  <url>
-    <loc>https://socoolapk.github.io/hello-world.html</loc>
-    <lastmod>2018-01-16T11:36:15.481Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2018-01-16T11:36:15.481Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
 </urlset>
