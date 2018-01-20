@@ -33,38 +33,68 @@
     <entry>
       <title><![CDATA[酷安机佬（socoolapk）专用导航页面]]></title>
       <url>/%E9%85%B7%E5%AE%89%E6%9C%BA%E4%BD%AC%E5%AF%BC%E8%88%AA%E9%A1%B5%E9%9D%A2.html</url>
-      <content type="html"><![CDATA[<h1 id="酷安机佬导航"><a href="#酷安机佬导航" class="headerlink" title="酷安机佬导航"></a><font color="#2cb262"><b>酷安机佬导航</b></font></h1><p align="right">Welcome to <a href="https://mp.weixin.qq.com/s/NcfLPZutQNqmu7HFPg2TqQ" target="_blank" rel="noopener">PY|勾搭我</a>! </p>
+      <content type="html"><![CDATA[<h1 id="酷安机佬导航"><a href="#酷安机佬导航" class="headerlink" title="酷安机佬导航"></a><font color="#2cb262"><b>酷安机佬导航</b></font></h1><hr>
+<p align="right">Welcome to <a href="https://mp.weixin.qq.com/s/NcfLPZutQNqmu7HFPg2TqQ" target="_blank" rel="noopener">PY|勾搭我</a>! </p>
 
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><font size="4" color="#2cb262"><b>常用导航</b></font></th>
+<th style="text-align:center"><font size="4" color="#2cb262"><b>搜索引擎</b></font></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center"><a href="http://baidu.com/" target="_blank" rel="noopener">Google</a></td>
+<td style="text-align:center"><a href="http://ac.scmor.com/" title="谷歌学术镜像" target="_blank" rel="noopener">谷歌镜像</a></td>
+<td style="text-align:center"><a href="http://baidu.com/" title="狗爪度" target="_blank" rel="noopener">百度一下</a></td>
+<td style="text-align:center"><a href="https://www.sogou.com/" target="_blank" rel="noopener">搜狗</a></td>
+<td style="text-align:center"><a href="https://www.bing.com/" target="_blank" rel="noopener">必应bing</a></td>
+<td style="text-align:center"><a href="https://www.yahoo.com/" title="雅虎" target="_blank" rel="noopener">YAHOO!</a></td>
+<td style="text-align:center"><a href="https://duckduckgo.com/" target="_blank" rel="noopener">DuckDuckGo</a></td>
+<td style="text-align:center"><a href="https://www.wolframalpha.com/" target="_blank" rel="noopener">WolframAlpha</a></td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://mp.weixin.qq.com/s/NcfLPZutQNqmu7HFPg2TqQ" target="_blank" rel="noopener">告诉我更多</a></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<a id="more"></a>
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><font size="4" color="#2cb262"><b>搜索引擎</b></font></th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td style="text-align:center"><a href="http://baidu.com/" title="狗爪度" target="_blank" rel="noopener">百度</a></td>
-<td style="text-align:center">中等文本</td>
-<td style="text-align:center">点的文本</td>
-<td style="text-align:center">短文本</td>
-<td style="text-align:center">中等文本</td>
-<td style="text-align:center">点的文本</td>
-<td style="text-align:center">短文本</td>
-<td style="text-align:center">中等文本</td>
+<td style="text-align:center"><a href="http://baidu.com/" title="狗爪度" target="_blank" rel="noopener">百度</a></td>
+<td style="text-align:center"><a href="http://baidu.com/" title="狗爪度" target="_blank" rel="noopener">百度</a></td>
+<td style="text-align:center"><a href="http://baidu.com/" title="狗爪度" target="_blank" rel="noopener">百度</a></td>
+<td style="text-align:center"><a href="http://baidu.com/" title="狗爪度" target="_blank" rel="noopener">百度</a></td>
+<td style="text-align:center"><a href="http://baidu.com/" title="狗爪度" target="_blank" rel="noopener">百度</a></td>
+<td style="text-align:center"><a href="http://baidu.com/" title="狗爪度" target="_blank" rel="noopener">百度</a></td>
+<td style="text-align:center"><a href="http://baidu.com/" title="狗爪度" target="_blank" rel="noopener">百度</a></td>
 </tr>
 <tr>
-<td style="text-align:center">稍微长一点的文本</td>
-<td style="text-align:center">短文本</td>
-<td style="text-align:center">中等文本</td>
-<td style="text-align:center">点的文本</td>
-<td style="text-align:center">短文本</td>
-<td style="text-align:center">中等文本</td>
-<td style="text-align:center">点的文本</td>
-<td style="text-align:center">短文本</td>
+<td style="text-align:center"><a href="http://baidu.com/" title="狗爪度" target="_blank" rel="noopener">百度</a></td>
+<td style="text-align:center"><a href="http://baidu.com/" title="狗爪度" target="_blank" rel="noopener">百度</a></td>
+<td style="text-align:center"><a href="http://baidu.com/" title="狗爪度" target="_blank" rel="noopener">百度</a></td>
+<td style="text-align:center"><a href="http://baidu.com/" title="狗爪度" target="_blank" rel="noopener">百度</a></td>
+<td style="text-align:center"><a href="http://baidu.com/" title="狗爪度" target="_blank" rel="noopener">百度</a></td>
+<td style="text-align:center"><a href="http://baidu.com/" title="狗爪度" target="_blank" rel="noopener">百度</a></td>
+<td style="text-align:center"><a href="http://baidu.com/" title="狗爪度" target="_blank" rel="noopener">百度</a></td>
+<td style="text-align:center"><a href="http://baidu.com/" title="狗爪度" target="_blank" rel="noopener">百度</a></td>
 </tr>
 </tbody>
-</table>
-<a id="more"></a>]]></content>
+</table>]]></content>
       
         
         <tags>
