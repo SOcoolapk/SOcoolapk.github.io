@@ -31,6 +31,51 @@
     </entry>
     
     <entry>
+      <title><![CDATA[酷安机佬（socoolapk）专用导航页面]]></title>
+      <url>/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87.html</url>
+      <content type="html"><![CDATA[<h1 id="酷安机佬导航"><a href="#酷安机佬导航" class="headerlink" title="酷安机佬导航"></a><font color="#2cb262"><b>酷安机佬导航</b></font></h1><p align="right">Welcome to <a href="https://mp.weixin.qq.com/s/NcfLPZutQNqmu7HFPg2TqQ" target="_blank" rel="noopener">PY|勾搭我</a>! </p>
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><font size="4" color="#2cb262"><b>常用导航</b></font></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">短文本</td>
+<td style="text-align:center">中等文本</td>
+<td style="text-align:center">点的文本</td>
+<td style="text-align:center">短文本</td>
+<td style="text-align:center">中等文本</td>
+<td style="text-align:center">点的文本</td>
+<td style="text-align:center">短文本</td>
+<td style="text-align:center">中等文本</td>
+</tr>
+<tr>
+<td style="text-align:center">稍微长一点的文本</td>
+<td style="text-align:center">短文本</td>
+<td style="text-align:center">中等文本</td>
+<td style="text-align:center">点的文本</td>
+<td style="text-align:center">短文本</td>
+<td style="text-align:center">中等文本</td>
+<td style="text-align:center">点的文本</td>
+<td style="text-align:center">短文本</td>
+</tr>
+</tbody>
+</table>
+<a id="more"></a>]]></content>
+      
+        
+        <tags>
+            
+            <tag> 测试专用 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[测试1]]></title>
       <url>/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87.html</url>
       <content type="html"><![CDATA[<p>Welcome to <a href="https://www.baidu.com/" target="_blank" rel="noopener">酷安机佬</a>! </p>
@@ -42,14 +87,6 @@
             <tag> 酷安机佬 </tag>
             
         </tags>
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[第二篇文]]></title>
-      <url>/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87.html</url>
-      <content type="html"><![CDATA[<p>Welcome to <a href="https://baidu.com" target="_blank" rel="noopener">百度一下</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>]]></content>
-      
         
     </entry>
     
