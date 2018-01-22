@@ -4,25 +4,8 @@
 
     
   <url>
-    <loc>https://socoolapk.github.io/hello-world.html</loc>
-    <lastmod>2018-01-22T02:39:37.528Z</lastmod>
-    <data>
-        <display>
-        <title>😚欢迎来到【酷安机佬】</title>
-        <pubTime>2019-01-19T07:08:32.000Z</pubTime>
-        
-        <tag>酷安机佬</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://socoolapk.github.io/%E9%85%B7%E5%AE%89%E6%9C%BA%E4%BD%AC%E5%AF%BC%E8%88%AA%E9%A1%B5%E9%9D%A2.html</loc>
-    <lastmod>2018-01-21T08:45:02.097Z</lastmod>
+    <lastmod>2018-01-22T10:48:49.184Z</lastmod>
     <data>
         <display>
         <title>酷安机佬（socoolapk）专用导航页面</title>
@@ -37,14 +20,32 @@
     </url>
 
     
-    
   <url>
     <loc>https://socoolapk.github.io/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87.html</loc>
-    <lastmod>2018-01-19T14:50:25.246Z</lastmod>
+    <lastmod>2018-01-22T03:07:45.998Z</lastmod>
     <data>
         <display>
-        <title>测试1</title>
+        <title>测试文章</title>
         <pubTime>2018-01-19T07:08:32.000Z</pubTime>
+        
+        <tag>测试标签1</tag>
+         
+        <tag>测试标签2</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://socoolapk.github.io/hello-world.html</loc>
+    <lastmod>2018-01-22T03:05:36.130Z</lastmod>
+    <data>
+        <display>
+        <title>😚欢迎来到【酷安机佬】</title>
+        <pubTime>2019-01-19T07:08:32.000Z</pubTime>
         
         <tag>酷安机佬</tag>
          
@@ -54,5 +55,6 @@
     </data>
     </url>
 
+    
     
 </urlset>
