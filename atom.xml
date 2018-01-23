@@ -18,8 +18,8 @@
   
   <entry>
     <title>😚欢迎来到【酷安机佬】</title>
-    <link href="https://socoolapk.github.io/%E3%80%90001%E3%80%91hello-world.html"/>
-    <id>https://socoolapk.github.io/【001】hello-world.html</id>
+    <link href="https://socoolapk.github.io/hello-world.html"/>
+    <id>https://socoolapk.github.io/hello-world.html</id>
     <published>2019-01-19T07:08:32.000Z</published>
     <updated>2018-01-22T03:05:36.130Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>酷安机佬（socoolapk）专用导航页面</title>
-    <link href="https://socoolapk.github.io/%E3%80%90002%E3%80%91%E9%85%B7%E5%AE%89%E6%9C%BA%E4%BD%AC%E5%AF%BC%E8%88%AA%E9%A1%B5%E9%9D%A2.html"/>
-    <id>https://socoolapk.github.io/【002】酷安机佬导航页面.html</id>
+    <link href="https://socoolapk.github.io/%E9%85%B7%E5%AE%89%E6%9C%BA%E4%BD%AC%E5%AF%BC%E8%88%AA%E9%A1%B5%E9%9D%A2.html"/>
+    <id>https://socoolapk.github.io/酷安机佬导航页面.html</id>
     <published>2018-12-31T16:00:00.000Z</published>
     <updated>2018-01-23T13:25:01.937Z</updated>
     
@@ -90,7 +90,7 @@
     <link href="https://socoolapk.github.io/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87.html"/>
     <id>https://socoolapk.github.io/第一篇文.html</id>
     <published>2018-01-19T07:08:32.000Z</published>
-    <updated>2018-01-22T03:07:45.998Z</updated>
+    <updated>2018-01-23T13:36:59.030Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://www.baidu.com/" target="_blank" rel="noopener">酷安机佬</a>! </p><h2 id="这是标题"><a href="#这是标题" class="headerlink" title="这是标题"></a>这是标题</h2><a id="more"></a><p>测试文本</p>]]></content>
     
