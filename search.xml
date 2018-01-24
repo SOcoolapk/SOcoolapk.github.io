@@ -158,9 +158,13 @@
     <entry>
       <title><![CDATA[测试文章]]></title>
       <url>/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87.html</url>
-      <content type="html"><![CDATA[<p>Welcome to <a href="https://www.baidu.com/" target="_blank" rel="noopener">酷安机佬</a>! </p>
-<h2 id="这是标题"><a href="#这是标题" class="headerlink" title="这是标题"></a>这是标题</h2><a id="more"></a>
-<p>测试文本</p>]]></content>
+      <content type="html"><![CDATA[<p>Welcome to <a href="https://www.baidu.com/" target="_blank" rel="noopener">酷安机佬</a>!<br><a id="more"></a></p>
+<h2 id="标题"><a href="#标题" class="headerlink" title="标题"></a><font color="#2cb262">标题</font></h2><h4 id="标题-1"><a href="#标题-1" class="headerlink" title="标题"></a>标题</h4><h3 id="标题-2"><a href="#标题-2" class="headerlink" title="标题"></a>标题</h3><h2 id="标题-3"><a href="#标题-3" class="headerlink" title="标题"></a>标题</h2><h1 id="标题-4"><a href="#标题-4" class="headerlink" title="标题"></a>标题</h1><h2 id="文字"><a href="#文字" class="headerlink" title="文字"></a><font color="#2cb262">文字</font></h2><p>这是一串测试文字/这是一串测试文字/这是一串测试文字/这是一串测试文字/这是一串测试文字/这是一串测试文字</p>
+<h2 id="对齐"><a href="#对齐" class="headerlink" title="对齐"></a><font color="#2cb262">对齐</font></h2><p align="left">左对齐</p>             <center>居中</center>             <p align="right">右对齐</p>
+
+<h2 id="空格"><a href="#空格" class="headerlink" title="空格"></a><font color="#2cb262">空格</font></h2><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;前面有几个空格</p>
+<h2 id="分割线"><a href="#分割线" class="headerlink" title="分割线"></a><font color="#2cb262">分割线</font></h2><hr>
+<h2 id="字体"><a href="#字体" class="headerlink" title="字体"></a><font color="#2cb262">字体</font></h2><font face="黑体">黑体字</font><br><font face="宋体">宋体字</font><br><font face="夏日风格字体">夏日风格字体</font><br><font face="方正楷体拼音字库01">方正楷体拼音字库01</font><br><font face="方正显仁简体">方正显仁简体</font>]]></content>
       
         
         <tags>
