@@ -25,11 +25,11 @@
         
         <tags>
             
+            <tag> 设备 </tag>
+            
             <tag> 摄影 </tag>
             
             <tag> Sony </tag>
-            
-            <tag> 设备 </tag>
             
         </tags>
         
@@ -56,9 +56,9 @@
         
         <tags>
             
-            <tag> 设备 </tag>
-            
             <tag> XIAOMI </tag>
+            
+            <tag> 设备 </tag>
             
         </tags>
         
@@ -67,11 +67,12 @@
     <entry>
       <title><![CDATA[4步定制你的专属U盘个性盘符]]></title>
       <url>/%E4%B8%AA%E6%80%A7%E7%9B%98%E7%AC%A6.html</url>
-      <content type="html"><![CDATA[<p><img src="https://img.vim-cn.com/af/12e1fb79a6df7b1710e94f7973365cfa974540.jpg" style="zoom:120%"><br>说在前头:本教程学会之后对U盘还是你自己都没有任何实质性的提升，但是或许大概可能会对你撩妹，装逼有所帮助。<br><br></p>
-<center>先看一个前后对比图:<br><img src="https://img.vim-cn.com/df/cb4787f2d364cf43c43ecbb50680a07272d0c2.jpg" style="120"><br><center>更改前</center><br><img src="https://img.vim-cn.com/ef/77ad182d48761cc86ebab8d16458f5bf5ce951.jpg" style="zoom:120%"><br>更改后</center><br><br><br><center>具体操作步骤如下，文末有彩蛋<br><br><br><center><font size="4" color="#2cb262"><b>第一步</b></font><br><center>准备一张正方形的图片，将你的图片制成ico格式（可使用格式工厂来转格式），然后这里我把文件名改为：111330.ico<br><img src="https://img.vim-cn.com/cd/37d14185a44cf9bec9056208f596d05d975782.jpg" style="zoom:120%"><br>转格式-重命名</center><br><br><br><center><font size="4" color="#2cb262"><b>第二步</b></font><br>在桌面右面创建一个文件名为autorun.inf的文本文档，然后在里面输入以下内容：<br>[autorun]<br>icon=111330.ico<br><img src="https://img.vim-cn.com/ac/d73c1db806455970e95f3665d484516e82aebb.jpg" style="zoom:120%"><br>icon＝后面就是图片的全称</center><br><br><br><center><font size="4" color="#2cb262"><b>第三步</b></font><br>点击“文件”-“另存为”-“所有文件”-“保存”<br><img src="https://img.vim-cn.com/81/cee4ae31e2f9cb2e2f2dbb40589b17c42d3067.jpg" style="zoom:120%"><br>选择“所有文件”很重要</center><br><br><br><center><font size="4" color="#2cb262"><b>第四步</b></font><br>将111330.ico图片和autorun.inf文件复制到U盘，然后把U盘重插上电脑就行了<br><img src="https://img.vim-cn.com/ef/77ad182d48761cc86ebab8d16458f5bf5ce951.jpg" style="zoom:120%"><br>（当然，你觉得这两个文件放在U盘里面看着比较碍眼，你还可以选中两个文件“右键-属性-隐藏”便可）</center>
+      <content type="html"><![CDATA[<p><img src="https://img.vim-cn.com/13/53f436972c51dcfe8edb1fa61732e709ae535e.jpg" style="zoom:120%"><br>说在前头:本教程学会之后对U盘还是你自己都没有任何实质性的提升，但是或许大概可能会对你撩妹，装逼有所帮助。<br><br></p>
+<center><font size="4" color="#2cb262"><b>先看前后对比图</b></font><br><br><img src="https://img.vim-cn.com/5a/2386c24067a15864a645e810229dd3c1815755.jpg" style="120"><br><center>（更改前）          （更改后）</center><br><br><br><center>具体操作步骤如下，文末有彩蛋<br><br><br><center><font size="4" color="#2cb262"><b>第一步</b></font><br><center>准备一张正方形的图片，将你的图片制成ico格式（可使用格式工厂来转格式），然后这里我把文件名改为：111330.ico<br><img src="https://img.vim-cn.com/cd/37d14185a44cf9bec9056208f596d05d975782.jpg" style="zoom:120%"><br>转格式-重命名</center><br><br><br><center><font size="4" color="#2cb262"><b>第二步</b></font><br>在桌面右面创建一个文件名为autorun.inf的文本文档，然后在里面输入以下内容：<br>[autorun]<br>icon=111330.ico<br><img src="https://img.vim-cn.com/ac/d73c1db806455970e95f3665d484516e82aebb.jpg" style="zoom:120%"><br>icon＝后面就是图片的全称</center><br><br><br><center><font size="4" color="#2cb262"><b>第三步</b></font><br>点击“文件”-“另存为”-“所有文件”-“保存”<br><img src="https://img.vim-cn.com/81/cee4ae31e2f9cb2e2f2dbb40589b17c42d3067.jpg" style="zoom:120%"><br>选择“所有文件”很重要</center><br><br><br><center><font size="4" color="#2cb262"><b>第四步</b></font><br>将111330.ico图片和autorun.inf文件复制到U盘，然后把U盘重插上电脑就行了<br><img src="https://img.vim-cn.com/ef/77ad182d48761cc86ebab8d16458f5bf5ce951.jpg" style="zoom:120%"><br>（当然，你觉得这两个文件放在U盘里面看着比较碍眼，你还可以选中两个文件“右键-属性-隐藏”便可）</center>
 
 
-<p><center>-END-</center><br><br><br><br><br>最后:<br>我也分享我做好的20个盘符，如果有喜欢的直接把文件拖到U盘里面就可以直接使用啦！<br>文件链接: <a href="http://dwz.cn/86ebz1" target="_blank" rel="noopener">http://dwz.cn/86ebz1</a>  密码: utp4<br><img src="https://img.vim-cn.com/eb/467f0d0ee50b08a00d7b3343588dd3a1f2b94b.jpg" style="zoom:120%"></p></center></center>]]></content>
+<p><center>-END-</center><br><br><br><br></p>
+<p><font size="4" color="#2cb262"><b>最后</b></font><br>我也分享我做好的20个盘符，如果有喜欢的直接把文件拖到U盘里面就可以直接使用啦！<br>文件链接: <a href="http://dwz.cn/86ebz1" target="_blank" rel="noopener">http://dwz.cn/86ebz1</a>  密码: utp4<br><br><br><img src="https://img.vim-cn.com/78/c69f387943455e11b1613464ed072b78f8e7e1.jpg" style="zoom:120%"><br><br></p></center></center></center>]]></content>
       
         
         <tags>
