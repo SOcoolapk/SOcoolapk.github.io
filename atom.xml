@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://socoolapk.github.io/"/>
-  <updated>2019-08-13T15:51:52.246Z</updated>
+  <updated>2019-08-14T00:41:14.108Z</updated>
   <id>https://socoolapk.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://socoolapk.github.io/%E7%B4%A2%E5%B0%BCA6300.html"/>
     <id>https://socoolapk.github.io/索尼A6300.html</id>
     <published>2019-08-10T16:00:00.000Z</published>
-    <updated>2019-08-13T15:51:52.246Z</updated>
+    <updated>2019-08-14T00:41:14.108Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://img.vim-cn.com/7c/07b3380c1cdce12b4beb87c0b6cae892712f72.jpg" style="zoom:120%"><br>在一定程度上面来讲，折腾其实就是进步的阶梯。<br><br>一直以来都特别喜欢拍照，因为拍照是一件特别、特别美好的事情。每张照片都是一个故事，无论过了多久，透过照片曾经的往事全都历历在目。我很喜欢将照片冲洗出来，对，你没有听错，即使在这个网络如此发达的现在都还在保持着这个不知是好是坏的习惯，不为别的，只是因为相册捧在手里的那种沉甸感，能够让我心更加踏实一点。<br><br>姨夫（一夫）曾说：“既然喜欢的人最后不一定能够在一起，那么遇到喜欢的东西那就买下来吧！”马化腾也说：“钱不是真的用掉了，他只是换了一种方式继续陪在你的身边而已！”起初我对这些话不屑一顾，但当我遇到了它——A6300，一切都变得不一样了，我开始尝试着思考这些话存在的道理。遂思，即下单。<br><br>如果非要给A6300一句话的总结，那么我会毫不犹豫的说：“<font color="#2cb262">索尼A6300是一台优点很突出，缺点也很突出且极具性价比的机器</font>”。是的，你没有看错，又是“性价比”，我那该死的穷逼属性瞬间又一次暴露无遗。性价比有多高?首先你能够在5000元左右，买到一台索尼A6系的微单相机并且还附赠16-50mm的饼干套头，不得不说索尼的这款套头不仅轻便，而且性价比真的巨高，16-50mm的焦段进可拍人文，退可拍人像，作为挂机头真的是血赚，姨夫差点亏的连公交都坐不起了。外观方面A6300机身采用的是一种类金属的材质（好像是镁铝合金），摸起来看起来一点都不廉价，在重量方面不用多说，作为微单都懂的。更何况我还看到了A6300兼具<a href="https://www.bilibili.com/video/av29244894" target="_blank" rel="noopener">视频机</a>的一些优秀素质：可靠的对焦、4K视频录制、S-Log以及全高清120fps视频拍摄。而这么多功能你都汇聚在这个小巧机器里面，不体验不折腾，怎么去提高？<br><br></p><font size="4" color="#2cb262"><b>折腾日记</b></font><p><b>1、破解安装收费APP</b></p><ul><li>准备一台电脑 (PC\Mac)</li><li>相机数据线 (MicroUSB)</li><li>下载<a href="https://pan.baidu.com/s/1U2YHwS8EyMzcp_YCe0Iqmw" target="_blank" rel="noopener">SONY全系列收费APP</a> (提取码：bsr7)</li><li>下载专用<a href="https://github.com/ma1co/Sony-PMCA-RE/releases" target="_blank" rel="noopener">破解安装软件pmca-gui</a> (exe\dmg)</li><li><font color="#2cb262"><b>安装方法</b></font>:相机设置mtp模式和电脑连接,打开pmca-gui软件,点击Install app,点击Open apk,然后点击Install selected app,等待…<br><br></li></ul><p><b>2、购买Sigma 35mm F1.4镜头</b></p><p><img src="https://img.vim-cn.com/19/5376ac841dfcd9f311f060666c6d9566ebc8a6.jpg" style="zoom:120%"><br><br></p><p><b>3、购买RODE VideoMicro麦克风</b></p><p><br></p><center>更新ING</center><center>…</center>]]></content>
     
@@ -35,11 +35,11 @@
     </summary>
     
     
-      <category term="设备" scheme="https://socoolapk.github.io/tags/%E8%AE%BE%E5%A4%87/"/>
-    
       <category term="摄影" scheme="https://socoolapk.github.io/tags/%E6%91%84%E5%BD%B1/"/>
     
       <category term="Sony" scheme="https://socoolapk.github.io/tags/Sony/"/>
+    
+      <category term="设备" scheme="https://socoolapk.github.io/tags/%E8%AE%BE%E5%A4%87/"/>
     
   </entry>
   
@@ -62,9 +62,36 @@
     </summary>
     
     
+      <category term="设备" scheme="https://socoolapk.github.io/tags/%E8%AE%BE%E5%A4%87/"/>
+    
       <category term="XIAOMI" scheme="https://socoolapk.github.io/tags/XIAOMI/"/>
     
-      <category term="设备" scheme="https://socoolapk.github.io/tags/%E8%AE%BE%E5%A4%87/"/>
+  </entry>
+  
+  <entry>
+    <title>4步定制你的专属U盘个性盘符</title>
+    <link href="https://socoolapk.github.io/%E4%B8%AA%E6%80%A7%E7%9B%98%E7%AC%A6.html"/>
+    <id>https://socoolapk.github.io/个性盘符.html</id>
+    <published>2018-06-22T16:00:00.000Z</published>
+    <updated>2019-08-14T01:16:39.924Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://img.vim-cn.com/af/12e1fb79a6df7b1710e94f7973365cfa974540.jpg" style="zoom:120%"><br>说在前头:本教程学会之后对U盘还是你自己都没有任何实质性的提升，但是或许大概可能会对你撩妹，装逼有所帮助。<br><br></p><center>先看一个前后对比图:<br><img src="https://img.vim-cn.com/df/cb4787f2d364cf43c43ecbb50680a07272d0c2.jpg" style="120"><br><center>更改前</center><br><img src="https://img.vim-cn.com/ef/77ad182d48761cc86ebab8d16458f5bf5ce951.jpg" style="zoom:120%"><br>更改后</center><br><br><br><center>具体操作步骤如下，文末有彩蛋<br><br><br><center><font size="4" color="#2cb262"><b>第一步</b></font><br><center>准备一张正方形的图片，将你的图片制成ico格式（可使用格式工厂来转格式），然后这里我把文件名改为：111330.ico<br><img src="https://img.vim-cn.com/cd/37d14185a44cf9bec9056208f596d05d975782.jpg" style="zoom:120%"><br>转格式-重命名</center><br><br><br><center><font size="4" color="#2cb262"><b>第二步</b></font><br>在桌面右面创建一个文件名为autorun.inf的文本文档，然后在里面输入以下内容：<br>[autorun]<br>icon=111330.ico<br><img src="https://img.vim-cn.com/ac/d73c1db806455970e95f3665d484516e82aebb.jpg" style="zoom:120%"><br>icon＝后面就是图片的全称</center><br><br><br><center><font size="4" color="#2cb262"><b>第三步</b></font><br>点击“文件”-“另存为”-“所有文件”-“保存”<br><img src="https://img.vim-cn.com/81/cee4ae31e2f9cb2e2f2dbb40589b17c42d3067.jpg" style="zoom:120%"><br>选择“所有文件”很重要</center><br><br><br><center><font size="4" color="#2cb262"><b>第四步</b></font><br>将111330.ico图片和autorun.inf文件复制到U盘，然后把U盘重插上电脑就行了<br><img src="https://img.vim-cn.com/ef/77ad182d48761cc86ebab8d16458f5bf5ce951.jpg" style="zoom:120%"><br>（当然，你觉得这两个文件放在U盘里面看着比较碍眼，你还可以选中两个文件“右键-属性-隐藏”便可）</center><p><center>-END-</center><br><br><br><br><br>最后:<br>我也分享我做好的20个盘符，如果有喜欢的直接把文件拖到U盘里面就可以直接使用啦！<br>文件链接: <a href="http://dwz.cn/86ebz1" target="_blank" rel="noopener">http://dwz.cn/86ebz1</a>  密码: utp4<br><img src="https://img.vim-cn.com/eb/467f0d0ee50b08a00d7b3343588dd3a1f2b94b.jpg" style="zoom:120%"></p></center></center>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;https://img.vim-cn.com/af/12e1fb79a6df7b1710e94f7973365cfa974540.jpg&quot; style=&quot;zoom:120%&quot;&gt;&lt;br&gt;说在前头:本教程学会之后对U盘还是你自己都没有任何实质性的提升，但是或
+      
+    
+    </summary>
+    
+    
+      <category term="教程" scheme="https://socoolapk.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="Windows" scheme="https://socoolapk.github.io/tags/Windows/"/>
+    
+      <category term="U盘" scheme="https://socoolapk.github.io/tags/U%E7%9B%98/"/>
     
   </entry>
   
@@ -87,9 +114,9 @@
     </summary>
     
     
-      <category term="好软推荐" scheme="https://socoolapk.github.io/tags/%E5%A5%BD%E8%BD%AF%E6%8E%A8%E8%8D%90/"/>
-    
       <category term="Windows" scheme="https://socoolapk.github.io/tags/Windows/"/>
+    
+      <category term="好软推荐" scheme="https://socoolapk.github.io/tags/%E5%A5%BD%E8%BD%AF%E6%8E%A8%E8%8D%90/"/>
     
   </entry>
   
