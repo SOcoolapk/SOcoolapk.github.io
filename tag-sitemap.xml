@@ -2,22 +2,57 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>https://socoolapk.github.io/tags/%E7%BD%91%E7%AB%99%E5%AF%BC%E8%88%AA/</loc>
-        <lastmod>2019-08-08T15:34:27.761Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://socoolapk.github.io/tags/%E5%A5%BD%E8%BD%AF%E6%8E%A8%E8%8D%90/</loc>
-        <lastmod>2019-08-08T15:39:43.991Z</lastmod>
+        <lastmod>2019-08-10T11:46:26.500Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://socoolapk.github.io/tags/%E6%84%9F%E5%8F%97/</loc>
-        <lastmod>2019-08-08T15:46:05.258Z</lastmod>
+        <loc>https://socoolapk.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
+        <lastmod>2019-08-14T04:42:54.196Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://socoolapk.github.io/tags/Windows/</loc>
+        <lastmod>2019-08-14T04:42:54.196Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://socoolapk.github.io/tags/U%E7%9B%98/</loc>
+        <lastmod>2019-08-14T04:42:54.196Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://socoolapk.github.io/tags/%E6%91%84%E5%BD%B1/</loc>
+        <lastmod>2019-08-14T12:40:50.626Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://socoolapk.github.io/tags/Sony/</loc>
+        <lastmod>2019-08-14T12:40:50.626Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://socoolapk.github.io/tags/XIAOMI/</loc>
+        <lastmod>2019-08-15T04:20:02.749Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://socoolapk.github.io/tags/%E8%AE%BE%E5%A4%87/</loc>
+        <lastmod>2019-08-15T04:20:02.749Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
