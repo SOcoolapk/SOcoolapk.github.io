@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://socoolapk.github.io/"/>
-  <updated>2019-08-16T10:41:12.816Z</updated>
+  <updated>2019-08-22T05:50:52.794Z</updated>
   <id>https://socoolapk.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>今年618我给自己装了台PC</title>
+    <link href="https://socoolapk.github.io/AMD%20YES.html"/>
+    <id>https://socoolapk.github.io/AMD YES.html</id>
+    <published>2019-08-20T16:00:00.000Z</published>
+    <updated>2019-08-22T05:50:52.794Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://img.vim-cn.com/30/59a7e3ea2422b65c1a5af193feb068443d6aea.jpg" style="zoom:120%"><br>手里面的这台神舟战神也跟了我好几年了，小问题不断（屏幕坏过换了720p的显示屏、键盘坏了几个键、电池坏了只能一直连接电源使用），所以趁着今年618我给自己装了台PC，主要拿来后期修图以及视频剪辑，不怎么打游戏，所以我选的配置大概如下：<br><br> <font color="#2cb262">CPU</font>：AMD R7 2700 八核十六线程<br> <font color="#2cb262">主板</font>：微星 B450M MORTAR<br> <font color="#2cb262">内存</font>：海盗船 复仇者 DDR4 3000 8GB*2 + 威刚 万紫千红 DDR4 2666 4GB<br> <font color="#2cb262">SSD</font>：Inter 760P 256GB<br> <font color="#2cb262">机械</font>：西部数据 WD10EZEX 1TB 7200转<br> <font color="#2cb262">显卡</font>：迪兰恒进 RX580  2048SP 8G 战将<br> <font color="#2cb262">电源</font>：酷冷至尊 500W MASTERWATT LITE 全模组<br> <font color="#2cb262">散热</font>：AMD R7 2700原装散热<br> <font color="#2cb262">机箱</font>：先马 时光豪华版 双面钢化玻璃<br> <font color="#2cb262">屏幕</font>：HKC T7000钻石版 27英寸 IPS 2K屏<br> <font color="#2cb262">键盘</font>：RK987 87键 白色白光 国产青轴 无线双模<br> <font color="#2cb262">鼠标</font>：罗技 G102 黑色<br> <font color="#2cb262">音响</font>：天猫精灵 方糖 红色 蓝牙智能音响</p><p><a href="http://www.mydrivers.com/zhuanti/tianti/cpu/" target="_blank" rel="noopener">CPU天梯图</a><br>CPU的话目前市面上主流选择只有Inter和AMD两家，由于后期视频渲染吃的大多是CPU，对比过后我选择了性价比相对较高、线程更多的AMD 2700处理器，八核十六线程很爽。最终实际购买入了AMD R7 2700和微星 B450M MORTAR的套装。（CPU和主板配套购买通常会比单独购买更优惠，优惠幅度大概两三百块左右）。</p><p><a href="http://www.mydrivers.com/zhuanti/tianti/gpu/" target="_blank" rel="noopener">显卡天梯图</a><br>显卡的话由于不怎么打游戏，所以选择了还算过的去的迪兰恒进 RX580  2048SP 8G 战将，外观上面一个巨大的“特步”LOGO很是抢眼，这块显卡除了功耗有点高以外，对于我来说还真没有什么太大的缺点。</p><p>本着一切以性价比更高的原则，当然SSD搭配机械硬盘是最优的选择。Inter 760P 256GB作为C盘，装个系统以及日常的软件，对于不玩大型游戏的我来说完全是绰绰有余的；西部数据 WD10EZEX 1TB作为文件的存储盘，负责一些资料存储，7200转的速度也还过得去。今年内存的价格一跌再跌，528元就买到了两条海盗船复仇者DDR4 3000 8GB组了双通。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;https://img.vim-cn.com/30/59a7e3ea2422b65c1a5af193feb068443d6aea.jpg&quot; style=&quot;zoom:120%&quot;&gt;&lt;br&gt;手里面的这台神舟战神也跟了我好几年了，小问题不断（屏幕坏过换了720p
+      
+    
+    </summary>
+    
+    
+      <category term="AMD" scheme="https://socoolapk.github.io/tags/AMD/"/>
+    
+      <category term="装机" scheme="https://socoolapk.github.io/tags/%E8%A3%85%E6%9C%BA/"/>
+    
+      <category term="设备" scheme="https://socoolapk.github.io/tags/%E8%AE%BE%E5%A4%87/"/>
+    
+  </entry>
   
   <entry>
     <title>索尼A6300-折腾是进步的阶梯</title>
@@ -62,9 +89,9 @@
     </summary>
     
     
-      <category term="XIAOMI" scheme="https://socoolapk.github.io/tags/XIAOMI/"/>
-    
       <category term="设备" scheme="https://socoolapk.github.io/tags/%E8%AE%BE%E5%A4%87/"/>
+    
+      <category term="XIAOMI" scheme="https://socoolapk.github.io/tags/XIAOMI/"/>
     
   </entry>
   
