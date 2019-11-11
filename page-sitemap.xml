@@ -7,8 +7,22 @@
     </url>
     
     <url>
+        <loc>https://socoolapk.github.io/photo/</loc>
+        <lastmod>2019-11-11T01:57:09.039Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>https://socoolapk.github.io/time/</loc>
-        <lastmod>2019-08-14T15:50:04.580Z</lastmod>
+        <lastmod>2019-11-10T11:56:51.956Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://socoolapk.github.io/about/</loc>
+        <lastmod>2019-11-01T01:34:40.587Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -21,22 +35,8 @@
     </url>
     
     <url>
-        <loc>https://socoolapk.github.io/about/</loc>
-        <lastmod>2019-08-14T12:37:39.885Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
         <loc>https://socoolapk.github.io/tags/%E9%9A%8F%E7%AC%94/</loc>
         <lastmod>2018-01-27T09:52:35.229Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://socoolapk.github.io/photo/</loc>
-        <lastmod>2018-01-27T09:42:55.160Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
