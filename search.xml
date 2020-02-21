@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-    
-    <entry>
-      <title><![CDATA[拍摄后期经验-影分身之术]]></title>
-      <url>/%E6%8B%8D%E6%91%84%E5%90%8E%E6%9C%9F%E7%BB%8F%E9%AA%8C-%E5%BD%B1%E5%88%86%E8%BA%AB%E4%B9%8B%E6%9C%AF.html</url>
-      <content type="html"><![CDATA[<p>见字如面<br>欢迎来到酷安机佬，我是新八！</p>
+<search>
+  <entry>
+    <title>拍摄后期经验-影分身之术</title>
+    <url>/%E6%8B%8D%E6%91%84%E5%90%8E%E6%9C%9F%E7%BB%8F%E9%AA%8C-%E5%BD%B1%E5%88%86%E8%BA%AB%E4%B9%8B%E6%9C%AF.html</url>
+    <content><![CDATA[<p>见字如面<br>欢迎来到酷安机佬，我是新八！</p>
 <p>故事要从上个星期说起，对于公众号推送兢兢业业的我一直在想下周一要发什么内容才好，思前想后半天得不出令自己满意的结果，正头痛的时候，说时迟那时快，手机响着悦耳的铃声伴随着轻微的震动，亲切的提醒着我：主人，你近期购买的三脚架到了!<br>没错，我那朝思暮想的脚夹子终于到了，可那又怎样？<br>手机：主人，你…你…….可以….(滑稽)…<br>住嘴，你是想叫我水一期三脚架的开箱吗？那算什么？微信公众号：酷安机佬可是一个干货公众号，他是微信上最酷安的，酷安里面最微信的，一言不合就PY，动不动就滑稽，几乎每篇推文都是干货的公众号，里面关注的都是真男人！<br>主人，你误会了，我的意思是你可以用三脚架来写一个关于拍摄的教程，你买三脚架不也正是因为一些照片必须要使用它吗？<br>哇，小机机看来我是误会你了，那我这期就给大家说一说关于分身术的拍摄吧！</p>
 <p> <font size="3" color="#2cb262"><b>需要物品</b></font><br>前期：拍摄设备、三脚架<br>后期：Photoshop</p>
 <p> <font size="3" color="#2cb262"><b>第一步 拍摄</b></font><br>架好三脚架，将拍摄设备固定并设置好相关的参数<br>可调的话就尽量把光圈调小让景深大一点背景不至于虚化，其他快门速度、ISO等尽量固定不变，拍摄多张照片</p>
@@ -14,22 +12,15 @@
 <p> <font size="3" color="#2cb262"><b>第二步 后期</b></font><br>1、将上面拍摄的6张照片拖在PS里面<br><img src="https://img.vim-cn.com/2f/003761370c73e460f15d8d80295e2d77857349.jpg" width="300px"><br>2、点击创建蒙版，在最上面的图层上创建出一个蒙版<br><img src="https://img.vim-cn.com/7c/02f48315d08c69090baf1bdc8cac54e9bd317a.jpg" width="300px"><br>3、观察下面一个图层显示的人物位置，并在蒙版里面用画笔工具（黑色）涂抹出来<br><img src="https://img.vim-cn.com/72/29c871961f20c40ab3beaff8573dd72078164d.jpg" width="300px"><br>4、这样在预览窗口就会显示两个人物，然后我们Ctrl+E盖印一下<br><img src="https://img.vim-cn.com/de/2ba1da5f1caae753ae4a797780416602c39589.jpg" width="300px"><br>5、然后重复上面的二三步骤，大概就能得到这样的效果<br><img src="https://img.vim-cn.com/d2/fee19da33624e15c8826fec33571078867a252.jpg" width="300px"><br>6、然后在进行自己喜欢的调色，毕竟是一个主观的活儿，这里我就简单拉了一下亮度对比度，最后锐化了一下<br><img src="https://img.vim-cn.com/64/401fdcc905563412797bea6c559efad9b72807.jpg" width="300px"></p>
 <p>PSD源文件链接: <a href="https://pan.baidu.com/s/18syPiSyynueJnXdEYqOkuQ" target="_blank" rel="noopener">https://pan.baidu.com/s/18syPiSyynueJnXdEYqOkuQ</a> 提取码: ykbw</p>
 <p>希望上面提及的知识，对你有帮助！<br>这里是酷安机佬，每周一更新，我们下周见。</p>]]></content>
-      
-        
-        <tags>
-            
-            <tag> 拍摄 </tag>
-            
-            <tag> 后期 </tag>
-            
-        </tags>
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[我正在使用的油猴脚本]]></title>
-      <url>/%E6%88%91%E6%AD%A3%E5%9C%A8%E4%BD%BF%E7%94%A8%E7%9A%84%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC.html</url>
-      <content type="html"><![CDATA[<p>见字如面，<br>这里是酷安机佬，我是新八。</p>
+      <tags>
+        <tag>拍摄</tag>
+        <tag>后期</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我正在使用的油猴脚本</title>
+    <url>/%E6%88%91%E6%AD%A3%E5%9C%A8%E4%BD%BF%E7%94%A8%E7%9A%84%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC.html</url>
+    <content><![CDATA[<p>见字如面，<br>这里是酷安机佬，我是新八。</p>
 <p>Tampermonkey，世界上最流行的用户脚本管理器，并且支持绝大部分浏览器，添加相应脚本，可以帮助浏览器完成完成许多神奇的事情。相对于扩展来说，脚本具有更轻量，资源占用少（针对特定的站点生效）的优点。由于是针对特定的站点才能生效的脚本，可能会因为安装过多导致这些特定的站点打开速度会变慢。</p>
 <p>对于用户脚本管理器来说：GreaseMonkey、TemperMoneky、暴力猴是目前安装最多也是最出名的三个脚本管理器。GreaseMonkey字面意思油猴，在Firefox上风光无限；TemperMoneky字面意思篡改猴，因为之前已经有了GreaseMonkey（油猴）这个前辈加上Chrome后来崛起以及TemperMoneky和GreaseMonkey的功能性上比较相同，所以人们就把习惯性的把TemperMoneky也叫为油猴了；之后暴力猴也是作为后起之秀出现在舞台上。</p>
 <p>上一期推荐了我个人比较喜欢的Chrome扩展，里面提到了油猴脚本，作为浏览器的神扩展，当然得详细一点，那木下面我就来说一说我正在使用的脚本吧！</p>
@@ -45,22 +36,15 @@
 <p> <font size="3" color="#2cb262"><b>懒人专用，全网VIP视频免费破解去广告、全网音乐直接下载、百度网盘直接下载、知乎视频下载等多合一版</b></font><br>没错，这个脚本名字就是这么长。组合型多功能脚本，集合了全网视频VIP视频解析，大部分音乐免客户端下载，百度网盘直接下载，知乎视频下载，优惠券查询等常用的功能。真的是懒人必备！<br>地址：<a href="https://dwz.cn/1olkRw6F" target="_blank" rel="noopener">https://dwz.cn/1olkRw6F</a></p>
 <p>以上就是目前我正在使用的这10个油猴脚本！和浏览器扩展搭配使用基本可以满足日常的使用需求，最后还是一句：脚本别贪多，因为网上脚本很多功能性上都有所重复，如果这几个脚本没有符合你需求的也可以到下面这两个脚本托管网站去看看：<br>Greasyfork：<a href="https://greasyfork.org" target="_blank" rel="noopener">https://greasyfork.org</a><br>Openuserjs：<a href="https://openuserjs.org" target="_blank" rel="noopener">https://openuserjs.org</a></p>
 <p>希望上面提及的知识，对你有帮助！<br>这里是酷安机佬，每周一更新，我们下周见。</p>]]></content>
-      
-        
-        <tags>
-            
-            <tag> 干货分享 </tag>
-            
-            <tag> 油猴脚本 </tag>
-            
-        </tags>
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[无扩展不Chrome 第一期]]></title>
-      <url>/%E6%97%A0%E6%89%A9%E5%B1%95%E4%B8%8DChrome%E7%AC%AC%E4%B8%80%E6%9C%9F.html</url>
-      <content type="html"><![CDATA[<p>见字如面，<br>这里是酷安机佬，我是新八。</p>
+      <tags>
+        <tag>干货分享</tag>
+        <tag>油猴脚本</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>无扩展不Chrome 第一期</title>
+    <url>/%E6%97%A0%E6%89%A9%E5%B1%95%E4%B8%8DChrome%E7%AC%AC%E4%B8%80%E6%9C%9F.html</url>
+    <content><![CDATA[<p>见字如面，<br>这里是酷安机佬，我是新八。</p>
 <p>之前有推荐过那些非常棒的Windows软件，一共推荐了五期。而浏览器作为电脑里面非常重要的软件，关于效率美化方面也非常重要，今天我就推荐一手浏览器扩展，一共36个扩展程序，相信在安装完成之后你的内存就不存在了。但是你只要记住一句话：空闲的内存是没用的。你就会瞬间释然！废话不多说，直接开始推荐。 </p>
 <p> <font size="3" color="#2cb262"><b>01、Adblock Plus</b></font><br>使用量非常高的一款广告过滤器,就不多说了。<br>链接: <a href="https://pan.baidu.com/s/1gOZCKXWpvCfTcejdsQ3Bww" target="_blank" rel="noopener">https://pan.baidu.com/s/1gOZCKXWpvCfTcejdsQ3Bww</a> 提取码: COOL</p>
 <p> <font size="3" color="#2cb262"><b>02、Dark Reader</b></font><br>可以理解成夜间模式，可反转网页颜色，将白色变为黑色，晚上浏览时不刺眼，很舒服。<br>链接: <a href="https://pan.baidu.com/s/1LzL0hCqGLCbqu9TjdL4Wqg" target="_blank" rel="noopener">https://pan.baidu.com/s/1LzL0hCqGLCbqu9TjdL4Wqg</a> 提取码: COOL</p>
@@ -99,22 +83,15 @@
 <p> <font size="3" color="#2cb262"><b>35、谷歌访问助手</b></font><br>可以解决chrome扩展无法自动更新的问题，同时可以访问谷歌google搜索，gmail邮箱，google+等谷歌服务。简单来说这就是一个代理扩展吧。<br>链接: <a href="https://pan.baidu.com/s/1AiMKq7seCxa-zCKyfym_Yw" target="_blank" rel="noopener">https://pan.baidu.com/s/1AiMKq7seCxa-zCKyfym_Yw</a> 提取码: COOL</p>
 <p> <font size="3" color="#2cb262"><b>36、鼠标点击特效</b></font><br>点击网页会出现各种颜色的♥的特效，还挺好看，就保留下来了。<br>链接: <a href="https://pan.baidu.com/s/1AiMKq7seCxa-zCKyfym_Yw" target="_blank" rel="noopener">https://pan.baidu.com/s/1AiMKq7seCxa-zCKyfym_Yw</a> 提取码: COOL</p>
 <p><br><br><br>整体打包<br>链接: <a href="https://pan.baidu.com/s/1MBESvm6FC4hEz176Sj6e2g" target="_blank" rel="noopener">https://pan.baidu.com/s/1MBESvm6FC4hEz176Sj6e2g</a> 提取码: KZAZ</p>]]></content>
-      
-        
-        <tags>
-            
-            <tag> 干货分享 </tag>
-            
-            <tag> Chrome扩展 </tag>
-            
-        </tags>
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[免费可商用中文字体整理]]></title>
-      <url>/%E5%85%8D%E8%B4%B9%E5%8F%AF%E5%95%86%E7%94%A8%E4%B8%AD%E6%96%87%E5%AD%97%E4%BD%93%E6%95%B4%E7%90%86.html</url>
-      <content type="html"><![CDATA[<p>前言：2019年是版权意识深入人心的一年，因为这一年发生了太多版权相关的事件了，从敖厂长到视觉中国，从白嫖到付费，为知识付费的大旗也是被推到了时代风口上。字体是我们每天都要接触到的东西，所以我们得务必注意字体的版权问题，否则极易收到汉仪、方正等公司的律师函警告。为了防止这种事情发生，我也特地给各位机佬整理搜集了常用的免费无版权字体。</p>
+      <tags>
+        <tag>干货分享</tag>
+        <tag>Chrome扩展</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>免费可商用中文字体整理</title>
+    <url>/%E5%85%8D%E8%B4%B9%E5%8F%AF%E5%95%86%E7%94%A8%E4%B8%AD%E6%96%87%E5%AD%97%E4%BD%93%E6%95%B4%E7%90%86.html</url>
+    <content><![CDATA[<p>前言：2019年是版权意识深入人心的一年，因为这一年发生了太多版权相关的事件了，从敖厂长到视觉中国，从白嫖到付费，为知识付费的大旗也是被推到了时代风口上。字体是我们每天都要接触到的东西，所以我们得务必注意字体的版权问题，否则极易收到汉仪、方正等公司的律师函警告。为了防止这种事情发生，我也特地给各位机佬整理搜集了常用的免费无版权字体。</p>
 <p>下载链接: <a href="https://pan.baidu.com/s/1t5heGMvO0IphGTUmq1YAfA" target="_blank" rel="noopener">https://pan.baidu.com/s/1t5heGMvO0IphGTUmq1YAfA</a><br>提取码: font</p>
 <p> <font size="3" color="#2cb262"><b>思源黑体</b></font>（NotoSansHans）<br>Adobe与Google合作推出的一款开源字体，有七种字重（ExtraLight、Light、Normal、Regular、Medium、Bold 和 Heavy）。</p>
 <p> <font size="3" color="#2cb262"><b>思源宋体</b></font>（NotoSerifCJKsc）<br>同样是Adobe与Google合作推出的一款开源字体，也有七种字重。</p>
@@ -150,64 +127,41 @@
 <p> <font size="3" color="#2cb262"><b>联盟起艺卢帅正锐黑体</b></font><br>联盟起义卢帅正锐黑体正式发布，共计8000余字，永久免费商用标题体！</p>
 <p> <font size="3" color="#2cb262"><b>锐字真言体</b></font><br>由锐字家族推出的首款免费商用字体，真言体笔触浑厚有力，笔画曲折有度。</p>
 <p> <font size="3" color="#2cb262"><b>沐瑶软笔手写体</b></font><br>站酷手绘设计师“春颜秋色”送给女儿沐瑶的礼物，写坏了二十多支软头毛笔，最终完成了拥有这么可爱风格的字体。</p>]]></content>
-      
-        
-        <tags>
-            
-            <tag> 干货分享 </tag>
-            
-            <tag> 字体 </tag>
-            
-        </tags>
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[我的应用集-APP中毒患者的独白]]></title>
-      <url>/APP%E4%B8%AD%E6%AF%92%E6%82%A3%E8%80%85%E7%8B%AC%E7%99%BD.html</url>
-      <content type="html"><![CDATA[<p><img src="http://img.vim-cn.com/84/46eeb3f40e497cd07b847686090f300f587c75.jpg" style="zoom:120%"><br>说在前头：作为APP重度依赖患者的我今天来给大家聊一聊，介绍一下我手机里面都安装了那些APP。我有一个习惯，原则上只要旧版APP用的舒心，不强制升级的话我是不会升级的，遇到好功能不说就怕升级之后遇到一些意想不到的状况，比如xposed某些模块不匹配、比如APP又新添了讨厌的广告入口等。以上也是今天罗列的app很多都是旧版的原因。<br>暂时罗列了一下列表，后续详情有时间在补上…</p>
+      <tags>
+        <tag>干货分享</tag>
+        <tag>字体</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我的应用集-APP中毒患者的独白</title>
+    <url>/APP%E4%B8%AD%E6%AF%92%E6%82%A3%E8%80%85%E7%8B%AC%E7%99%BD.html</url>
+    <content><![CDATA[<p><img src="http://img.vim-cn.com/84/46eeb3f40e497cd07b847686090f300f587c75.jpg" style="zoom:120%"><br>说在前头：作为APP重度依赖患者的我今天来给大家聊一聊，介绍一下我手机里面都安装了那些APP。我有一个习惯，原则上只要旧版APP用的舒心，不强制升级的话我是不会升级的，遇到好功能不说就怕升级之后遇到一些意想不到的状况，比如xposed某些模块不匹配、比如APP又新添了讨厌的广告入口等。以上也是今天罗列的app很多都是旧版的原因。<br>暂时罗列了一下列表，后续详情有时间在补上…</p>
 <p>1    微信<br>2    QQ<br>3    新浪微博<br>4    Z直播 直播聚合软件<br>5    微小宝<br>6    滴滴出行<br>7    网易云音乐<br>8    哔哩哔哩<br>9    百度网盘<br>10    手机淘宝<br>11    Tasker<br>12    免Root脚本精灵<br>13    助手版贴吧<br>14    高德地图<br>15    天猫精灵<br>16    纯纯写作<br>17    Village山寨云<br>18    WPS Office<br>19    酷安<br>20    酷安VN<br>21    豆瓣<br>22    美团<br>23    团队文档库<br>24    手机乐园<br>25    闲鱼<br>26    京东<br>27    GIF字幕君<br>28    一个木函<br>29    支付宝<br>30    知乎<br>31    扫描全能王<br>32    携程旅行<br>33    微信读书<br>34    数字尾巴<br>35    TapTap<br>36    Share<br>37    百度贴吧<br>38    百度翻译<br>39    万能钥匙<br>40    歌词猎手<br>41    滴答音乐<br>42    快牙精简版<br>43    阿里云<br>44    今日头条<br>45    开眼<br>46    淘宝联盟<br>47    大众点评<br>48    钱迹<br>49    UU加速器<br>50    Speedtest<br>51    应用汇<br>52    铁路12306<br>53    Steam<br>54    多多猫<br>55    订阅号助手<br>56    Chrome<br>57    MT管理器<br>58    SSR<br>59    印象笔记<br>60    QQ同步助手<br>61    小红书<br>62    Goolge框架<br>63    Play商店<br>64    APKPure<br>65    Telegram<br>66    V2rayNG<br>67    Twitter<br>68    IFTTT<br>69    YouTube<br>70    Inoreader<br>71    Facebook<br>72    天府市民云<br>73    Xposed Installer框架<br>74    Magisk Manager面具<br>75    PicsArt美易照片编辑器<br>76    泼辣修图<br>77    lightroom<br>78    VSCO<br>79    Snapseed<br>80    LOFTER<br>81    图虫<br>82    一闪<br>83    Pinterest<br>84    花瓣<br>85    虎课<br>86    PlayMemoriesMobile<br>87    拼图酱<br>88    500px<br>89    Foodie<br>90    坚果云<br>91    王者荣耀<br>92    FV悬浮球<br>93  UPX浏览器<br>94  WEAR<br>95  Bose Connet</p>]]></content>
-      
-        
-        <tags>
-            
-            <tag> Android </tag>
-            
-            <tag> APP </tag>
-            
-            <tag> 好软推荐 </tag>
-            
-        </tags>
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[今年618我给自己装了台PC]]></title>
-      <url>/AMD%20YES.html</url>
-      <content type="html"><![CDATA[<p><img src="https://img.vim-cn.com/30/59a7e3ea2422b65c1a5af193feb068443d6aea.jpg" style="zoom:120%"><br>只有真正了解自己的需求，才能把钱花在刀刃上。（土豪当我没说）</p>
+      <tags>
+        <tag>Android</tag>
+        <tag>APP</tag>
+        <tag>好软推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>今年618我给自己装了台PC</title>
+    <url>/AMD%20YES.html</url>
+    <content><![CDATA[<p><img src="https://img.vim-cn.com/30/59a7e3ea2422b65c1a5af193feb068443d6aea.jpg" style="zoom:120%"><br>只有真正了解自己的需求，才能把钱花在刀刃上。（土豪当我没说）</p>
 <p>手里面的这台神舟战神也跟了我好几年了，小问题不断（屏幕坏过换了720p的显示屏观感贼差、键盘坏了几个键不过不影响使用、电池坏了只能一直连接电源使用），加上工作等原因，身为老船长的我竟也熬不动了，所以趁着今年618我给自己装了台PC，主要拿来后期修图以及常规的视频剪辑渲染，不会打游戏（误），不怎么拿来打游戏。一般来说选配电脑一定会经历不断的比对、不断的加钱、不断的妥协这几个过程。最终配置大概如下：<br><br> <font color="#2cb262">CPU</font>：AMD R7 2700 八核十六线程<br> <font color="#2cb262">主板</font>：微星 B450M MORTAR<br> <font color="#2cb262">内存</font>：海盗船 复仇者 DDR4 3000 8GB*2 + 威刚 万紫千红 DDR4 2666 4GB<br> <font color="#2cb262">SSD</font>：Inter 760P 256GB<br> <font color="#2cb262">机械</font>：西部数据 WD10EZEX 1TB 7200转<br> <font color="#2cb262">显卡</font>：迪兰恒进 RX580  2048SP 8G 战将<br> <font color="#2cb262">电源</font>：酷冷至尊 500W MASTERWATT LITE 全模组<br> <font color="#2cb262">散热</font>：AMD R7 2700原装散热<br> <font color="#2cb262">机箱</font>：先马 时光豪华版 双面钢化玻璃<br> <font color="#2cb262">屏幕</font>：HKC T7000钻石版 27英寸 IPS 2K屏<br> <font color="#2cb262">键盘</font>：RK987 87键 白色白光 国产青轴 无线双模<br> <font color="#2cb262">鼠标</font>：罗技 G102 黑色<br> <font color="#2cb262">音响</font>：天猫精灵 方糖 红色 蓝牙智能音响</p>
 <p><a href="http://www.mydrivers.com/zhuanti/tianti/cpu/" target="_blank" rel="noopener">CPU天梯图</a><br>CPU的话目前市面上主流选择只有Inter和AMD两家，由于后期视频渲染吃的大多是CPU，对比过后我选择了性价比相对较高、线程更多的AMD 2700处理器，八核十六线程视频渲染方面应该会很爽。最终实际在天猫购入了AMD R7 2700和微星 B450M MORTAR的套装，CPU和主板配套购买通常会比单独购买更优惠，优惠幅度大概两三百块左右。现在看来心急火燎没有去等3代锐龙有点小后悔，但通过这段时间使用来说还算可以，基本达到了自己的使用需求，也算不亏！</p>
 <p><a href="http://www.mydrivers.com/zhuanti/tianti/gpu/" target="_blank" rel="noopener">显卡天梯图</a><br>显卡的话由于不怎么打游戏，所以选择了还算过的去的迪兰恒进 RX580  2048SP 8G 战将，外观上面一个巨大的“特步”LOGO很是抢眼，这块显卡除了功耗有点高以外，对于我来说还真没有什么太大的缺点。</p>
 <p> <font size="4" color="#27599f">固态机械内存</font><br>本着一切以性价比更高的原则，当然SSD搭配机械硬盘是最优的选择。Inter 760P 256GB作为C盘，装个系统以及日常的软件，对于不玩大型游戏的我来说完全是绰绰有余的；西部数据 WD10EZEX 1TB作为文件的存储盘，负责一些资料存储，7200转的速度也还过得去。今年内存的价格一跌再跌，528元就买到了两条海盗船复仇者DDR4 3000 8GB组了双通。</p>
 <p> <font size="4" color="#27599f">电源</font><br>我知道对于第一次装机的我来说理线必定会成为我最头痛的事情，所以在电源的选购上面我着重把目光放在了全模组上面，而且后面还可以去定制模组线。经过对比选择了性价比可以酷冷至尊 500W MASTERWATT LITE，应该不会炸！</p>]]></content>
-      
-        
-        <tags>
-            
-            <tag> AMD </tag>
-            
-            <tag> 装机 </tag>
-            
-            <tag> 设备 </tag>
-            
-        </tags>
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[索尼A6300-折腾是进步的阶梯]]></title>
-      <url>/%E7%B4%A2%E5%B0%BCA6300.html</url>
-      <content type="html"><![CDATA[<p><img src="https://img.vim-cn.com/7c/07b3380c1cdce12b4beb87c0b6cae892712f72.jpg" style="zoom:120%"><br>在一定程度上面来讲，折腾其实就是进步的阶梯。<br><br>一直以来都特别喜欢拍照，因为拍照是一件特别、特别美好的事情。每张照片都是一个故事，无论过了多久，透过照片曾经的往事全都历历在目。我很喜欢将照片冲洗出来，对，你没有听错，即使在这个网络如此发达的现在都还在保持着这个不知是好是坏的习惯，不为别的，只是因为相册捧在手里的那种沉甸感，能够让我心更加踏实一点。<br><br>姨夫（一夫）曾说：“既然喜欢的人最后不一定能够在一起，那么遇到喜欢的东西那就买下来吧！”马化腾也说：“钱不是真的用掉了，他只是换了一种方式继续陪在你的身边而已！”起初我对这些话不屑一顾，但当我遇到了它——A6300，一切都变得不一样了，我开始尝试着思考这些话存在的道理。遂思，即下单。<br><br>如果非要给A6300一句话的总结，那么我会毫不犹豫的说：“<font color="#2cb262">索尼A6300是一台优点很突出，缺点也很突出且极具性价比的机器</font>”。是的，你没有看错，又是“性价比”，我那该死的穷逼属性瞬间又一次暴露无遗。性价比有多高?首先你能够在5000元左右，买到一台索尼A6系的微单相机并且还附赠16-50mm的饼干套头，不得不说索尼的这款套头不仅轻便，而且性价比真的巨高，16-50mm的焦段进可拍人文，退可拍人像，作为挂机头真的是血赚，姨夫差点亏的连公交都坐不起了。外观方面A6300机身采用的是一种类金属的材质（好像是镁铝合金），摸起来看起来一点都不廉价，在重量方面不用多说，作为微单都懂的。更何况我还看到了A6300兼具<a href="https://www.bilibili.com/video/av29244894" target="_blank" rel="noopener">视频机</a>的一些优秀素质：可靠的对焦、4K视频录制、S-Log以及全高清120fps视频拍摄。而这么多功能全都塞在了一台这么小巧的机器里面，不体验不折腾，怎么提高？<br><br>在这里我还是想要说明一下单反和无反（微单）的区别，因为很多人会觉得单反在体型上有所优势所以在画质上就肯定能够吊打无反（微单）。很显然这个观念是错误的，单反和无反（微单）最大区别是取景方式上的不同，无反（微单）采用的是电子取景，单反使用的是光学取景，机身内置反光板，这也正是单反机身那么庞大的主要原因。实际使用来说无论你的相机采用的是电子取景还是光学取景本质上面来说都没有太大的区别（非要说区别那就是电子取景更耗电吧），因为他并不是决定你相机最终呈现出来的画质好坏的决定性要素，而这个决定性要素是传感器，毕竟底大一级真的可以压死人。最后偏激来讲，无反（微单）淘汰掉单反只是时间上面的问题。<br><br></p>
+      <tags>
+        <tag>AMD</tag>
+        <tag>装机</tag>
+        <tag>设备</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>索尼A6300-折腾是进步的阶梯</title>
+    <url>/%E7%B4%A2%E5%B0%BCA6300.html</url>
+    <content><![CDATA[<p><img src="https://img.vim-cn.com/7c/07b3380c1cdce12b4beb87c0b6cae892712f72.jpg" style="zoom:120%"><br>在一定程度上面来讲，折腾其实就是进步的阶梯。<br><br>一直以来都特别喜欢拍照，因为拍照是一件特别、特别美好的事情。每张照片都是一个故事，无论过了多久，透过照片曾经的往事全都历历在目。我很喜欢将照片冲洗出来，对，你没有听错，即使在这个网络如此发达的现在都还在保持着这个不知是好是坏的习惯，不为别的，只是因为相册捧在手里的那种沉甸感，能够让我心更加踏实一点。<br><br>姨夫（一夫）曾说：“既然喜欢的人最后不一定能够在一起，那么遇到喜欢的东西那就买下来吧！”马化腾也说：“钱不是真的用掉了，他只是换了一种方式继续陪在你的身边而已！”起初我对这些话不屑一顾，但当我遇到了它——A6300，一切都变得不一样了，我开始尝试着思考这些话存在的道理。遂思，即下单。<br><br>如果非要给A6300一句话的总结，那么我会毫不犹豫的说：“<font color="#2cb262">索尼A6300是一台优点很突出，缺点也很突出且极具性价比的机器</font>”。是的，你没有看错，又是“性价比”，我那该死的穷逼属性瞬间又一次暴露无遗。性价比有多高?首先你能够在5000元左右，买到一台索尼A6系的微单相机并且还附赠16-50mm的饼干套头，不得不说索尼的这款套头不仅轻便，而且性价比真的巨高，16-50mm的焦段进可拍人文，退可拍人像，作为挂机头真的是血赚，姨夫差点亏的连公交都坐不起了。外观方面A6300机身采用的是一种类金属的材质（好像是镁铝合金），摸起来看起来一点都不廉价，在重量方面不用多说，作为微单都懂的。更何况我还看到了A6300兼具<a href="https://www.bilibili.com/video/av29244894" target="_blank" rel="noopener">视频机</a>的一些优秀素质：可靠的对焦、4K视频录制、S-Log以及全高清120fps视频拍摄。而这么多功能全都塞在了一台这么小巧的机器里面，不体验不折腾，怎么提高？<br><br>在这里我还是想要说明一下单反和无反（微单）的区别，因为很多人会觉得单反在体型上有所优势所以在画质上就肯定能够吊打无反（微单）。很显然这个观念是错误的，单反和无反（微单）最大区别是取景方式上的不同，无反（微单）采用的是电子取景，单反使用的是光学取景，机身内置反光板，这也正是单反机身那么庞大的主要原因。实际使用来说无论你的相机采用的是电子取景还是光学取景本质上面来说都没有太大的区别（非要说区别那就是电子取景更耗电吧），因为他并不是决定你相机最终呈现出来的画质好坏的决定性要素，而这个决定性要素是传感器，毕竟底大一级真的可以压死人。最后偏激来讲，无反（微单）淘汰掉单反只是时间上面的问题。<br><br></p>
 <font size="4" color="#2cb262"><b>折腾日记</b></font>
 
 <p><b>1、破解安装收费APP</b><br>前段时间准备拍延时，发现A6300不像传统单反需要单独另购快门线，其机身具有支持这项功能的应用，于是乎就……</p>
@@ -220,24 +174,16 @@
 </ul>
 <p><b>2、购买适马(Sigma) 30mm F1.4镜头</b><br>不得不说附赠16-50mm的饼干套头确实很棒，但是这段时间由于拍人像比较多，饼干套头最大F3.5的光圈显然满足不了日益膨胀的我了，于是趁机在京东618以1718的价格入了这款<a href="https://item.jd.com/2560386.html" target="_blank" rel="noopener">适马30mm F1.4</a>大光圈的镜头，不得不说健身马果然名不虚传，一个字“香”！<br><img src="https://img.vim-cn.com/19/5376ac841dfcd9f311f060666c6d9566ebc8a6.jpg" style="zoom:120%"></p>
 <p align="right">点击<a href="https://Instagram.com/tasker.wang" target="_blank" rel="noopener">Instagram</a>观看更多照片</p>]]></content>
-      
-        
-        <tags>
-            
-            <tag> 设备 </tag>
-            
-            <tag> 摄影 </tag>
-            
-            <tag> Sony </tag>
-            
-        </tags>
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[小米8se(6GB+64GB)的瞎鸡掰开箱以及简单使用感受]]></title>
-      <url>/%E5%B0%8F%E7%B1%B38se.html</url>
-      <content type="html"><![CDATA[<p><img src="https://img.vim-cn.com/8e/7864e0f5cf687a9103d01180a3309ff2d06a7c.jpg" style="zoom:120%"><br>说在前头：此文不是专业评测，仅是这段时间我在使用小米8se的使用体验和感受，从日常使用的角度出发，以实际使用作为依托，希望能正把这款手机作为选购对象之一亦或者想了解这款手机的你有所帮助。<br><br></p>
+      <tags>
+        <tag>设备</tag>
+        <tag>摄影</tag>
+        <tag>Sony</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>小米8se(6GB+64GB)的瞎鸡掰开箱以及简单使用感受</title>
+    <url>/%E5%B0%8F%E7%B1%B38se.html</url>
+    <content><![CDATA[<p><img src="https://img.vim-cn.com/8e/7864e0f5cf687a9103d01180a3309ff2d06a7c.jpg" style="zoom:120%"><br>说在前头：此文不是专业评测，仅是这段时间我在使用小米8se的使用体验和感受，从日常使用的角度出发，以实际使用作为依托，希望能正把这款手机作为选购对象之一亦或者想了解这款手机的你有所帮助。<br><br></p>
 <p> <font size="5" color="#27599f"><b>简单开箱</b></font><br>首先，我买的是小米8se (6GB+64GB)深灰色这个版本，售价1999元，成都地区7月9日官网下单（没错就是小米上市的那天），顺风包邮次日即达，没有抢购包裹来的太快就像龙卷风，恰是一江春水向东流…</p>
 <p>看到包装盒的那一瞬间我的呼吸开始急促了起来，不由自主的一把褪去了包裹在盒子上的塑封膜，映入眼帘的配件是几乎和所有厂商都差不多的硅胶保护套、卡针、Typc-C耳机转接线、QC3.0  18W的快充头，心里不由泛起一丝失落。</p>
 <p>“不在在躲着我了！”我一把把还静静躺在盒子中的小米8se捧在手心，宁一只手也不安分的在小米8se那触感极好的身子上游移着，细致的褪下了包裹在小米8se身上那层写着xxxxxxxxxxxxxxxxxxx臃肿的衣服，此刻阳光倾泻，小米8se 镜面般的身体上两颗摄像头微微泛着光…</p>
@@ -251,45 +197,30 @@
 <p> <font color="#2cb262">4.拍照摄像方面</font><br>首先作为一枚直男现在完全不能接受前置摄像头美颜磨皮的功能，他大爷的我都把美化关了，还给我磨皮，拍不出我的一点男子汉气概，后面转念一想或许这就是Al吧（机智），不过拍出来的风景还是挺不错的；视频方面也是支持4k视频的录制、快动作以及慢动作。（真香.jpg ）</p>
 <p> <font color="#2cb262">5.习惯体验方面</font><br>由于觉得底栏三大键特别丑于是打开了全面屏操作，一开始还是比较生疏老是去点击，但是后面习惯了就觉得特别方便；刘海屏还有一个缺点就是顶栏的显示特别有限，要想预览更多，就得拉下顶栏，电池的%显示就是这样的一个问题，不过好像听说之后的MIUI更新会解决这个问题。</p>
 <p><br><br> <font size="5" color="#27599f"><b>最后总结</b></font><br>总的说来，小米8se即使没有红外人脸识别、ufs2.0、nfc但她仍是一款非常不错的手机。故事结束心中默默浮现出雷总那张“没有现货的笑容”，那笑容透过阳光，笑的很真。</p>]]></content>
-      
-        
-        <tags>
-            
-            <tag> 设备 </tag>
-            
-            <tag> XIAOMI </tag>
-            
-        </tags>
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[4步定制你的专属U盘个性盘符]]></title>
-      <url>/%E4%B8%AA%E6%80%A7%E7%9B%98%E7%AC%A6.html</url>
-      <content type="html"><![CDATA[<p><img src="https://img.vim-cn.com/13/53f436972c51dcfe8edb1fa61732e709ae535e.jpg" style="zoom:120%"><br>说在前头:本教程学会之后对U盘还是你自己都没有任何实质性的提升，但是或许大概可能会对你撩妹，装逼有所帮助。<br><br></p>
+      <tags>
+        <tag>设备</tag>
+        <tag>XIAOMI</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>4步定制你的专属U盘个性盘符</title>
+    <url>/%E4%B8%AA%E6%80%A7%E7%9B%98%E7%AC%A6.html</url>
+    <content><![CDATA[<p><img src="https://img.vim-cn.com/13/53f436972c51dcfe8edb1fa61732e709ae535e.jpg" style="zoom:120%"><br>说在前头:本教程学会之后对U盘还是你自己都没有任何实质性的提升，但是或许大概可能会对你撩妹，装逼有所帮助。<br><br></p>
 <center><font size="4" color="#2cb262"><b>先看前后对比图</b></font><br><br><img src="https://img.vim-cn.com/5a/2386c24067a15864a645e810229dd3c1815755.jpg" style="120"><br><center>（更改前）          （更改后）</center><br><br><br><center>具体操作步骤如下，文末有彩蛋<br><br><br><center><font size="4" color="#2cb262"><b>第一步</b></font><br><center>准备一张正方形的图片，将你的图片制成ico格式（可使用格式工厂来转格式），然后这里我把文件名改为：111330.ico<br><img src="https://img.vim-cn.com/cd/37d14185a44cf9bec9056208f596d05d975782.jpg" style="zoom:120%"><br>转格式-重命名</center><br><br><br><center><font size="4" color="#2cb262"><b>第二步</b></font><br>在桌面右面创建一个文件名为autorun.inf的文本文档，然后在里面输入以下内容：<br>[autorun]<br>icon=111330.ico<br><img src="https://img.vim-cn.com/ac/d73c1db806455970e95f3665d484516e82aebb.jpg" style="zoom:120%"><br>icon＝后面就是图片的全称</center><br><br><br><center><font size="4" color="#2cb262"><b>第三步</b></font><br>点击“文件”-“另存为”-“所有文件”-“保存”<br><img src="https://img.vim-cn.com/81/cee4ae31e2f9cb2e2f2dbb40589b17c42d3067.jpg" style="zoom:120%"><br>选择“所有文件”很重要</center><br><br><br><center><font size="4" color="#2cb262"><b>第四步</b></font><br>将111330.ico图片和autorun.inf文件复制到U盘，然后把U盘重插上电脑就行了<br><img src="https://img.vim-cn.com/ef/77ad182d48761cc86ebab8d16458f5bf5ce951.jpg" style="zoom:120%"><br>（当然，你觉得这两个文件放在U盘里面看着比较碍眼，你还可以选中两个文件“右键-属性-隐藏”便可）</center>
 
 
 <p><center>-END-</center><br><br><br><br></p>
 <p><font size="4" color="#2cb262"><b>最后</b></font><br>我也分享我做好的20个盘符，如果有喜欢的直接把文件拖到U盘里面就可以直接使用啦！<br>文件链接: <a href="http://dwz.cn/86ebz1" target="_blank" rel="noopener">http://dwz.cn/86ebz1</a>  密码: utp4<br><br><br><img src="https://img.vim-cn.com/78/c69f387943455e11b1613464ed072b78f8e7e1.jpg" style="zoom:120%"><br><br></p></center></center></center>]]></content>
-      
-        
-        <tags>
-            
-            <tag> 教程 </tag>
-            
-            <tag> Windows </tag>
-            
-            <tag> U盘 </tag>
-            
-        </tags>
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[那些非常棒的Windows软件（长期更新）]]></title>
-      <url>/%E9%82%A3%E4%BA%9B%E9%9D%9E%E5%B8%B8%E6%A3%92%E7%9A%84Windows%E8%BD%AF%E4%BB%B6.html</url>
-      <content type="html"><![CDATA[<p>你都用过那些非常棒的Windows软件？<br>（对于软件来说，本来就是为了提高大家工作效率而存在的，所以说没有什么是最好的，只有适不适合自己的。）<br><br><a href="https://mp.weixin.qq.com/s/Yymv08-GMR408ie25F7lXg" target="_blank" rel="noopener"><img src="https://i.loli.net/2018/02/06/5a7981269d492.jpg" alt="640.jpg"></a><br><br> <font size="3" color="#2cb262"><b>PotPlayer</b></font> -最受欢迎的播放器之一<br>如果你追求内存占用低并且不卡、倍速播放不变音、无广告不流氓、支持单帧播放、界面可自定义、解码格式草鸡多，那么这款软件就是你的菜。<br>下载地址：<a href="http://potplayer.daum.net/?lang=zh_CN" target="_blank" rel="noopener">http://potplayer.daum.net/?lang=zh_CN</a></p>
+      <tags>
+        <tag>教程</tag>
+        <tag>Windows</tag>
+        <tag>U盘</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>那些非常棒的Windows软件（长期更新）</title>
+    <url>/%E9%82%A3%E4%BA%9B%E9%9D%9E%E5%B8%B8%E6%A3%92%E7%9A%84Windows%E8%BD%AF%E4%BB%B6.html</url>
+    <content><![CDATA[<p>你都用过那些非常棒的Windows软件？<br>（对于软件来说，本来就是为了提高大家工作效率而存在的，所以说没有什么是最好的，只有适不适合自己的。）<br><br><a href="https://mp.weixin.qq.com/s/Yymv08-GMR408ie25F7lXg" target="_blank" rel="noopener"><img src="https://i.loli.net/2018/02/06/5a7981269d492.jpg" alt="640.jpg"></a><br><br> <font size="3" color="#2cb262"><b>PotPlayer</b></font> -最受欢迎的播放器之一<br>如果你追求内存占用低并且不卡、倍速播放不变音、无广告不流氓、支持单帧播放、界面可自定义、解码格式草鸡多，那么这款软件就是你的菜。<br>下载地址：<a href="http://potplayer.daum.net/?lang=zh_CN" target="_blank" rel="noopener">http://potplayer.daum.net/?lang=zh_CN</a></p>
 <p> <font size="3" color="#2cb262"><b>快播</b></font> -这个怎么说？最受欢迎的播放器没有之一？<br>这个，我也不知道大家为什么都推荐这款软件，我能想到的答案仅仅是“情怀”，毕竟那些是我们逝去的青春。<br>这个别求资源，因为我也没有。</p>
 <p> <font size="3" color="#2cb262"><b>Dism++</b></font> -也许是最强的实用工具<br>系统优化利器，除了系统升级、清理垃圾‘还自带一系列优化操作，比如彻底关闭WD等这里一键就可以设置，非常稳。<br>下载地址：<a href="http://www.chuyu.me/zh-Hans/index.html" target="_blank" rel="noopener">http://www.chuyu.me/zh-Hans/index.html</a></p>
 <p> <font size="3" color="#2cb262"><b>Everything</b></font> -最强的搜索神器，真的没有之一<br>用来搜索查找文件真的非常棒。比Windows自带的资源管理器快的不止一点半点。<br>下载地址：<a href="https://www.voidtools.com/" target="_blank" rel="noopener">https://www.voidtools.com/</a></p>
@@ -342,18 +273,9 @@
 <center>更新ING</center><br><center>…</center>
 
 <p><img src="https://i.loli.net/2018/02/09/5a7d5c064d10e.jpg" style="zoom:120%"><br>欢迎关注我的同名微信公众号<font color="#2cb262">酷安机佬</font><br>这个公众号是微信上最酷安的，酷安里面最微信的，一言不合就PY，动不动就滑稽，时不时还来点小干货的公众号。<br>如果你喜欢追求新鲜的、有趣的、好玩儿的科技生活，关注我们一块儿玩耍（PY）吧！</p>]]></content>
-      
-        
-        <tags>
-            
-            <tag> 好软推荐 </tag>
-            
-            <tag> Windows </tag>
-            
-        </tags>
-        
-    </entry>
-    
-  
-  
+      <tags>
+        <tag>好软推荐</tag>
+        <tag>Windows</tag>
+      </tags>
+  </entry>
 </search>
