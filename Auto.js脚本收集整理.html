@@ -1,0 +1,316 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="X-UA-Compatible" content="IE=edge"><meta name="author" content="新八,SOCOOLAPK@gmail.com"><title>Auto.js脚本收集整理 · socoolapk</title><meta name="description" content="以下脚本均是2018.1.5和酷安大佬rimma交易得来，这片文章也是一直放在素材库里面没有发布，今天闲来特地整理了一番决定发布出来，可能某些脚本已经失效了，不过丝毫不阻碍把它当学习的资料来参考学习。
+常规操作：下载Auto.js-新建-粘粘-运行即可
+1.酷安软件评论自动点赞12345678910"><meta name="keywords" content="Hexo,HTML,CSS,android,Linux"><meta content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0" name="viewport"><meta content="yes" name="apple-mobile-web-app-capable"><meta content="black" name="apple-mobile-web-app-status-bar-style"><meta content="telephone=no" name="format-detection"><meta name="renderer" content="webkit"><link rel="short icon" href="/images/favicon.png" type="image/x-icon"><link rel="stylesheet" href="/css/style.css"><link rel="stylesheet" href="/css/blog_basic.css"><link rel="stylesheet" href="/css/font-awesome.min.css"><link rel="alternate" type="application/atom+xml" title="ATOM 1.0" href="/atom.xml"></head><body><div class="sidebar animated fadeInDown"><div class="logo-title"><div class="title"><img src="/images/logo@2x.png" style="width:170px"><h3 title=""><a href="/">socoolapk</a></h3><div class="description"><p>剑眉斜飞 写尽风流</p></div></div></div><ul class="social-links"><li><a href="https://twitter.com/socoolapk"><i class="fa fa-twitter"></i></a></li><li><a href="http://instagram.com/tasker.wang"><i class="fa fa-instagram"></i></a></li><li><a href="/atom.xml"><i class="fa fa-rss"></i></a></li><li><a href="http://weibo.com/"><i class="fa fa-weibo"></i></a></li><li><a href="http://github.com/SOcoolapk"><i class="fa fa-github"></i></a></li></ul><div class="footer"><a href=""> </a><span>欢迎来到这里呀 </span><div class="by_farbox"></div><script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script><span id="busuanzi_container_site_uv"> 你是第</span><span id="busuanzi_value_site_uv"> </span><span>个来到这里的小伙伴</span><div class="by_farbox"><a href="https://hexo.io/" target="_blank"> 网站偷偷采用灰常棒的 HEXO-Anatole 搭建</a></div></div></div><div class="main"><div class="page-top animated fadeInDown"><div class="nav"><li><a href="/">首页</a></li><li><a href="/archives">归档</a></li><li><a href="/about">关于</a></li><li><a href="/links">留言</a></li><li><a href="/time">动态</a></li><li><a href="/photo">相册</a></li></div><div class="information"><div class="back_btn"><li><a onclick="window.history.go(-1)" class="fa fa-chevron-left"> </a></li></div><div class="avatar"><img src="/images/favicon.png"></div></div></div><div class="autopagerize_page_element"><div class="content"><div class="post-page"><div class="post animated fadeInDown"><div class="post-title"><h3><a>Auto.js脚本收集整理</a></h3></div><div class="post-content"><p>以下脚本均是2018.1.5和酷安大佬rimma交易得来，这片文章也是一直放在素材库里面没有发布，今天闲来特地整理了一番决定发布出来，可能某些脚本已经失效了，不过丝毫不阻碍把它当学习的资料来参考学习。</p>
+<p>常规操作：下载Auto.js-新建-粘粘-运行即可</p>
+<p>1.酷安软件评论自动点赞<br><figure class="highlight gcode"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">"auto"</span>;</span><br><span class="line"></span><br><span class="line"><span class="keyword">while</span><span class="comment">(true)</span>&#123;</span><br><span class="line"></span><br><span class="line">id<span class="comment">("feed_action_view_like")</span>.click<span class="comment">()</span>;</span><br><span class="line"></span><br><span class="line">sleep<span class="comment">(500)</span>;</span><br><span class="line"></span><br><span class="line">id<span class="comment">("recycler_view")</span>.scrollForward<span class="comment">()</span>;</span><br><span class="line"></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p>
+<p>2.微信语音聊天电话无限轰炸脚本</p>
+<p>“auto”;</p>
+<p>launchApp(“微信”);</p>
+<p>toast(“打开聊天界面进行操作”);</p>
+<p>while(true){</p>
+<p>id(“aa6”).click();</p>
+<p>bounds(786,1166,1032,1436).click();</p>
+<p>sleep(1000);</p>
+<p>id(“bps”).click();</p>
+<p>}</p>
+<p>3.酷安自动评论</p>
+<p>(需要自己打开帖子或者评论)</p>
+<p>“auto”;</p>
+<p>while(true){</p>
+<p>toast(“自行打开评论or帖子”);</p>
+<p>id(“comment_box”).click();</p>
+<p>id(“edit_text”).setText(“自行更改需要发送的内容”);</p>
+<p>id(“menu_post”).click();</p>
+<p>}</p>
+<p>4.短信无限加特林突突突轰炸冒蓝火那种的脚步</p>
+<p>“auto”;</p>
+<p>//进入短信发送信息界面，自动进行轰炸</p>
+<p>//自行更改需要发送的内容</p>
+<p>//土豪专用轰炸机</p>
+<p>launchApp(“短信”);</p>
+<p>waitForPackage(“com.android.mms”);</p>
+<p>toast(“轰炸机已准备”);</p>
+<p>while(true){</p>
+<p>setText(“你好世界！”);</p>
+<p>id(“send_button”).click();</p>
+<p>}</p>
+<p>5.全自动判断微信自主循环发信息脚本</p>
+<p>“auto”;</p>
+<p>var wc =”com.tencent.mm.ui.LauncherUI”;</p>
+<p>waitForActivity(wc);</p>
+<p>toast(“请打开一个聊天界面”);</p>
+<p>while(true){</p>
+<p>setText(“你好”);</p>
+<p>text(“发送”).click();</p>
+<p>}</p>
+<p>6.网易自动关注</p>
+<p>(不同界面不同id，这个脚本针对的是音乐人界面)</p>
+<p>“auto”;</p>
+<p>launchApp(“网易云音乐”)</p>
+<p>toast(“开始操作，请自行点击到音乐人界面”);</p>
+<p>var g =”关注”;</p>
+<p>var h =”qp”;</p>
+<p>var t =”aty”;</p>
+<p>while(true){</p>
+<p>text(g).id(t).find().click();</p>
+<p>id(h).findOne().scrollForward();</p>
+<p>sleep(700);</p>
+<p>//网易云关注上限数 2001 (滑稽)</p>
+<p>}</p>
+<p>7.网易云关注好友动态批量点赞</p>
+<p>“auto”;</p>
+<p>//自行打开任意关注好友界面</p>
+<p>//限关注好友动态界面</p>
+<p>var h =”com.netease.cloudmusic.activity.ProfileActivity”;</p>
+<p>waitForActivity(h);</p>
+<p>while(true){</p>
+<p>id(“gd”).scrollForward();</p>
+<p>sleep(350);</p>
+<p>id(“aw_”).untilFindOne().click();</p>
+<p>}</p>
+<p>8.支付宝蚂蚁森林自动浇水</p>
+<p>“auto”;</p>
+<p>launchApp(“支付宝”);</p>
+<p>waitForPackage(“com.eg.android.AlipayGphone”);</p>
+<p>bounds(0,266,270,390).findOne().click();</p>
+<p>desc(“浇水”).click().clickc().click();</p>
+<p>9.酷安评论区自动卡壳点赞</p>
+<p>“auto”;</p>
+<p>//打开任意软件评论区，自动开始</p>
+<p>var h =”com.coolapk.market.view.app.AppViewActivity”;</p>
+<p>waitForActivity(h);</p>
+<p>while(true){</p>
+<p>//稳定版</p>
+<p>id(“recycler_view”).scrollForward();</p>
+<p>sleep(500);</p>
+<p>id(“feed_action_view_like”).findOne().click();</p>
+<p>}</p>
+<p>10.酷安头条自动点赞</p>
+<p>“auto”;</p>
+<p>//打开酷安头条，开始装逼之路</p>
+<p>var h =”com.coolapk.market.view.main.MainActivity”;</p>
+<p>waitForActivity(h);</p>
+<p>while(true){</p>
+<p>//稳定版</p>
+<p>id(“recycler_view”).scrollForward();</p>
+<p>sleep(1000);</p>
+<p>id(“feed_action_view_like”).click();</p>
+<p>}</p>
+<p>11.跳过启动页广告</p>
+<p>“auto”;</p>
+<p>var ad= textContains(“跳过”);</p>
+<p>while(true){</p>
+<p>ad.findOne().click();</p>
+<p>}</p>
+<p>12.微博国际版全自动签到</p>
+<p>(自动签到走起)</p>
+<p>“auto”;</p>
+<p>launchApp(“微博国际版”);</p>
+<p>sleep(500);</p>
+<p>desc(“确定”).click();</p>
+<p>sleep(500);</p>
+<p>text(“关注的话题”).findOne().parent().click();</p>
+<p>sleep(500);</p>
+<p>var h =”com.weico.international.activity.FollowTopicActivity”;</p>
+<p>waitForActivity(h);</p>
+<p>while(true){</p>
+<p>id(“item_topic_super_tips”).findOne().parent().click();</p>
+<p>sleep(1000);</p>
+<p>id(“menu_follow_btn”).click();</p>
+<p>sleep(1000);</p>
+<p>back();</p>
+<p>}</p>
+<p>13.网易云点谁举报谁</p>
+<p>(养成看到喷子举报的好习惯，从你做起)</p>
+<p>“auto”;</p>
+<p>var huodon =”com.netease.cloudmusic.activity.ResourceCommentActivity”;</p>
+<p>waitForActivity(huodon);</p>
+<p>while(true){</p>
+<p>text(“举报评论”).findOne().parent().click();</p>
+<p>text(“营销广告”).findOne().parent().click();</p>
+<p>}</p>
+<p>14.知乎问答自动点赞</p>
+<p>(到知乎，打开答案自动秒赞)</p>
+<p>“auto”;</p>
+<p>launchApp(“知乎”);</p>
+<p>toast(“随意打开一个问或答”);</p>
+<p>//随意打开一个问或者答</p>
+<p>var h =”com.zhihu.android.app.ui.activity.MainActivity”;</p>
+<p>waitForActivity(h);</p>
+<p>while(true){</p>
+<p>id(“vote_up”).click();</p>
+<p>sleep(500);</p>
+<p>id(“view_pager”).scrollForward();</p>
+<p>}</p>
+<p>15.酷安全自动头条点赞脚本</p>
+<p>(限安卓7.0系统)</p>
+<p>“auto”;</p>
+<p>//打开酷安头条，开始装逼之路</p>
+<p>//全自动版限安卓7.0，6.0用户看我动</p>
+<p>launchApp(“酷安”);</p>
+<p>var h =”com.coolapk.market.view.main.MainActivity”;</p>
+<p>waitForActivity(h);</p>
+<p>swipe(550, 1700, 550, 145, 400);</p>
+<p>swipe(550, 1700, 550, 145, 400);</p>
+<p>while(true){</p>
+<p>id(“recycler_view”).scrollForward();</p>
+<p>sleep(1000);</p>
+<p>id(“feed_action_view_like”).click();</p>
+<p>}</p>
+<p>16.酷安头条大佬自动关注脚本</p>
+<p>(关注大佬，这是必须的)</p>
+<p>“auto”;</p>
+<p>launchApp(“酷安”);</p>
+<p>var h =”com.coolapk.market.view.main.MainActivity”;</p>
+<p>waitForActivity(h);</p>
+<p>toast(“请自行下滑带头条所在位置”);</p>
+<p>sleep(1000);</p>
+<p>while(true){</p>
+<p>id(“user_avatar_view”).findOne().click();</p>
+<p>sleep(1000);</p>
+<p>id(“action_view”).click();</p>
+<p>sleep(500);</p>
+<p>back();</p>
+<p>sleep(500);</p>
+<p>id(“recycler_view”).scrollForward();</p>
+<p>}</p>
+<p>17.网易云自动取消关注</p>
+<p>(一定要打开好友界面)</p>
+<p>“auto”;</p>
+<p>var h=”com.netease.cloudmusic.activity.FriendActivity”;</p>
+<p>launchApp(“网易云音乐”);</p>
+<p>//请打开好友界面</p>
+<p>toast(“请打开好友界面”);</p>
+<p>waitForActivity(h);</p>
+<p>while(true){</p>
+<p>if(id(“ad6”).exists()){</p>
+<p>id(“ad6”).findOne().click();</p>
+<p>sleep(200);</p>
+<p>id(“zs”).text(“取消关注”).findOne().parent().click();</p>
+<p>sleep(200);</p>
+<p>id(“aiy”).text(“不再关注”).findOne().click();</p>
+<p>sleep(1000);</p>
+<p>}</p>
+<p>}</p>
+<p>18.网易云(关键词)自动举报脚本</p>
+<p>(改善网上素质生活，保护自我合法权益，从我做起)</p>
+<p>“auto”;</p>
+<p>var h =”com.netease.cloudmusic.activity.ResourceCommentActivity”;</p>
+<p>waitForActivity(h);</p>
+<p>while(true){</p>
+<p>//fuck为敏感关键词，可自定义</p>
+<p>if(textContains(“fuck”).exists()){</p>
+<p>textContains(“fuck”).findOne().parent().click();</p>
+<p>//f第一句的敏感词和第二句要一样</p>
+<p>text(“举报评论”).findOne().parent().click();</p>
+<p>text(“恶意攻击谩骂”).findOne().parent().click();</p>
+<p>sleep(1000);</p>
+<p>id(“vr”).scrollForward();</p>
+<p>}</p>
+<p>}</p>
+<p>19.循环点击屏幕</p>
+<p>(每50毫秒一次，无限循环，毫秒数可改，坐标可改，限 #Android7.0# 以上！)</p>
+<p>“auto”;</p>
+<p>while(true){</p>
+<p>click(550，650);</p>
+<p>sleep(50);</p>
+<p>}</p>
+<p>20.网易云自动切歌刷收听量脚本</p>
+<p>(开局一个脚本，等级全靠刷)</p>
+<p>“auto”;</p>
+<p>var h =”com.netease.cloudmusic.activity.PlayerActivity”;</p>
+<p>waitForActivity(h);</p>
+<p>toast(“开局一个脚本，等级全靠刷”);</p>
+<p>while(true){</p>
+<p>text(“01:00”).waitFor();</p>
+<p>desc(“下一首”).id(“pk”).findOne().click();</p>
+<p>sleep(500);</p>
+<p>}</p>
+<p>21.网易云全自动签到</p>
+<p>(签到完成自动退出，限最新版)</p>
+<p>“auto”;</p>
+<p>launchApp(“网易云音乐”);</p>
+<p>id(“mh”).click();</p>
+<p>sleep(500);</p>
+<p>textContains(“签到”).click();</p>
+<p>toast(“签到成功”);</p>
+<p>sleep(500);</p>
+<p>back();</p>
+<p>back();</p>
+<p>22.微博国际版循环骚扰脚本</p>
+<p>(对付喷子什么的还是有点用的)</p>
+<p>“auto”;</p>
+<p>launchApp(“微博”);</p>
+<p>sleep(1000);</p>
+<p>toast(“打开私信”);</p>
+<p>var h =”com.weico.international.activity.compose.SeaMsgComposeActivity”;</p>
+<p>waitForActivity(h);</p>
+<p>while(true){</p>
+<p>//可把你号改为其他词，语，句</p>
+<p>id(“msg_text”).setText(“你好”);</p>
+<p>sleep(100);</p>
+<p>id(“send_icon”).click();</p>
+<p>}</p>
+<p>23.微信运动排行榜自动点赞</p>
+<p>(运行脚本后自行打开微信运动排行榜)</p>
+<p>“auto”;</p>
+<p>var h =”com.tencent.mm.plugin.exdevice.ui.ExdeviceRankInfoUI”;</p>
+<p>launchApp(“微信”);</p>
+<p>sleep(1000);</p>
+<p>toast(“自行打开微信运动”);</p>
+<p>waitForActivity(h);</p>
+<p>while(true){</p>
+<p>id(“b0u”).scrollForward();</p>
+<p>sleep(1000);</p>
+<p>id(“b12”).find().click();</p>
+<p>}</p>
+<p>24.音量下键全自动开始录音</p>
+<p>(红米note4外加MIUI9稳定版实验)</p>
+<p>“auto”;</p>
+<p>events.observeKey();</p>
+<p>events.onceKeyDown(“volume_down”,function(recorder){</p>
+<p>launchApp(“录音机”);</p>
+<p>id(“btn_record”).click();</p>
+<p>home();</p>
+<p>//加home键是退出桌面键，防止别人看出来</p>
+<p>});</p>
+<p>25.批量自动删除微博</p>
+<p>(限微博国际版)</p>
+<p>“auto”;</p>
+<p>//点击运行后自动开始，三思而后行！</p>
+<p>launchApp(“微博国际版”);</p>
+<p>sleep(1000);</p>
+<p>desc(“确定”).click();</p>
+<p>sleep(500);</p>
+<p>text(“个人主页”).findOne().parent().click();</p>
+<p>sleep(500);</p>
+<p>var h =”com.weico.international.activity.profile.ProfileActivity”;</p>
+<p>waitForActivity(h);</p>
+<p>while(true){</p>
+<p>id(“item_timeline_head_more”).click();</p>
+<p>sleep(500);</p>
+<p>text(“删除”).findOne().parent().click();</p>
+<p>sleep(500);</p>
+<p>text(“确定”).click();</p>
+<p>sleep(500);</p>
+<p>//网速慢的情况下可能会出现删除失误的问题，延时请不要更改！</p>
+<p>}</p>
+<p>26.QQ自动打开扫一扫</p>
+<p>(可以设置在桌面)</p>
+<p>“auto”;</p>
+<p>var h =”com.tencent.mobileqq.activity.SplashActivity”;</p>
+<p>launchApp(“QQ”);</p>
+<p>waitForActivity(h);</p>
+<p>while(!desc(“快捷入口”).click());</p>
+<p>while(!desc(“扫一扫 按钮”).click());</p>
+<p>酷安基佬:rimma</p>
+<p><br><br><br><br><span id="busuanzi_container_page_pv">此页面总访问<span id="busuanzi_value_page_pv"></span>次</span></p></div><div class="post-footer"><div class="meta"><div class="info"><i class="fa fa-sun-o"></i><span class="date">2018-05-25</span><i class="fa fa-tag"></i><a href="/tags/脚本/" title="脚本" class="tag">脚本 </a></div></div></div></div><div class="share"><div class="evernote"><a href="javascript:(function(){EN_CLIP_HOST='http://www.evernote.com';try{var%20x=document.createElement('SCRIPT');x.type='text/javascript';x.src=EN_CLIP_HOST+'/public/bookmarkClipper.js?'+(new%20Date().getTime()/100000);document.getElementsByTagName('head')[0].appendChild(x);}catch(e){location.href=EN_CLIP_HOST+'/clip.action?url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title);}})();" ref="nofollow" target="_blank" class="fa fa-bookmark"></a></div><div class="weibo"><a href="javascript:void((function(s,d,e){try{}catch(e){}var f='http://service.weibo.com/share/share.php?',u=d.location.href,p=['url=',e(u),'&amp;title=',e(d.title),'&amp;appkey=2924220432'].join('');function a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=620,height=450,left=',(s.width-620)/2,',top=',(s.height-450)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent)){setTimeout(a,0)}else{a()}})(screen,document,encodeURIComponent));" class="fa fa-weibo"></a></div><div class="twitter"><a href="http://twitter.com/home?status=,https://socoolapk.github.io/Auto.js脚本收集整理.html,socoolapk,Auto.js脚本收集整理,;" class="fa fa-twitter"></a></div></div><div class="pagination"><ul class="clearfix"><li class="pre pagbuttons"><a role="navigation" href="/个性盘符.html" title="4步定制你的专属U盘个性盘符" class="btn">上一篇</a></li><li class="next pagbuttons"><a role="navigation" href="/那些非常棒的Windows软件.html" title="那些非常棒的Windows软件（长期更新）" class="btn">下一篇</a></li></ul></div><a id="comments"></a><div id="vcomments" style="margin:0 30px"></div><script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script><script src="//unpkg.com/valine/dist/Valine.min.js?v=undefined"></script><script>var valine = new Valine({
+  el:'#vcomments',
+  notify:false || false, 
+  verify:false|| false, 
+  app_id:'9WqrJyhVScVbuHxQjXDzw1nK-gzGzoHsz',
+  app_key:'pntTmd2b2vh62Mh8E7X3E5iY',
+  placeholder:'Tell me what you think...',
+  path: window.location.pathname,
+  avatar:'retro'
+})</script></div></div></div></div><script src="/js/jquery.js"></script><script src="/js/jquery-migrate-1.2.1.min.js"></script><script src="/js/jquery.appear.js"></script></body></html><script type="text/javascript" src="/js/love.js"></script>
