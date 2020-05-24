@@ -72,20 +72,6 @@
     </url>
 
     <url>
-        <loc>https://socoolapk.github.io/tags/%E6%91%84%E5%BD%B1/</loc>
-        <lastmod>2020-02-25T00:38:59.981Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://socoolapk.github.io/tags/Sony/</loc>
-        <lastmod>2020-02-25T00:38:59.981Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://socoolapk.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
         <lastmod>2020-02-25T00:41:38.726Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -121,15 +107,29 @@
     </url>
 
     <url>
-        <loc>https://socoolapk.github.io/tags/%E8%AE%BE%E5%A4%87/</loc>
+        <loc>https://socoolapk.github.io/tags/XIAOMI/</loc>
         <lastmod>2020-02-28T10:14:40.026Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://socoolapk.github.io/tags/XIAOMI/</loc>
-        <lastmod>2020-02-28T10:14:40.026Z</lastmod>
+        <loc>https://socoolapk.github.io/tags/%E8%AE%BE%E5%A4%87/</loc>
+        <lastmod>2020-03-01T01:47:38.326Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://socoolapk.github.io/tags/%E6%91%84%E5%BD%B1/</loc>
+        <lastmod>2020-03-01T01:47:38.326Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://socoolapk.github.io/tags/Sony/</loc>
+        <lastmod>2020-03-01T01:47:38.326Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
