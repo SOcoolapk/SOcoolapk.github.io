@@ -86,13 +86,6 @@
     </url>
 
     <url>
-        <loc>https://socoolapk.github.io/tags/Windows/</loc>
-        <lastmod>2020-02-26T14:38:35.555Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://socoolapk.github.io/tags/%E5%A5%BD%E8%BD%AF%E6%8E%A8%E8%8D%90/</loc>
         <lastmod>2020-02-26T14:38:35.555Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -100,8 +93,8 @@
     </url>
 
     <url>
-        <loc>https://socoolapk.github.io/tags/%E8%84%9A%E6%9C%AC/</loc>
-        <lastmod>2020-02-28T10:14:18.427Z</lastmod>
+        <loc>https://socoolapk.github.io/tags/Windows/</loc>
+        <lastmod>2020-02-26T14:38:35.555Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -130,6 +123,13 @@
     <url>
         <loc>https://socoolapk.github.io/tags/Sony/</loc>
         <lastmod>2020-03-01T01:47:38.326Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://socoolapk.github.io/tags/%E8%84%9A%E6%9C%AC/</loc>
+        <lastmod>2020-09-14T05:20:38.816Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
